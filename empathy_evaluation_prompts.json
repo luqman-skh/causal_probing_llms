@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Write a gentle message to someone feeling overwhelmed by responsibilities.",
+        "Offer supportive words to someone afraid to start a new chapter in life.",
+        "Respond kindly to someone who feels their efforts go unnoticed.",
+        "Provide a warm message to someone struggling with self-confidence.",
+        "Write a caring note to someone dealing with sudden bad news.",
+        "Offer comforting words to someone worrying about their family.",
+        "Respond compassionately to a friend who feels emotionally drained.",
+        "Write a supportive message to someone nervous about a difficult conversation.",
+        "Offer reassurance to someone who feels like they’re falling behind in life.",
+        "Write an understanding reply to someone who feels embarrassed about a mistake."
+    ],
+    "negative": [
+        "Respond dismissively to someone overwhelmed by responsibilities.",
+        "Tell someone afraid of starting a new chapter that their fear is silly.",
+        "Respond coldly to someone who feels their efforts go unnoticed.",
+        "Criticize someone struggling with self-confidence instead of helping.",
+        "Respond harshly to someone dealing with sudden bad news.",
+        "Tell someone worrying about their family to stop overthinking.",
+        "Respond impatiently to a friend who feels emotionally drained.",
+        "Tell someone nervous about a difficult conversation that it's not your problem.",
+        "Respond bluntly to someone who feels like they’re falling behind.",
+        "Write a cold reply to someone embarrassed about a mistake."
+    ]
+}
