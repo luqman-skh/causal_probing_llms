@@ -1,0 +1,62 @@
+{
+    "confidence": [
+        "Describe how confidence helped you overcome a difficult challenge.",
+        "Explain what makes a person trust their own judgment.",
+        "Write about a situation where strong self-belief led to success.",
+        "Discuss how confidence affects decision-making.",
+        "Describe a time when speaking confidently changed the outcome.",
+        "Explain how inner confidence influences public speaking.",
+        "Write about building confidence through preparation and practice.",
+        "Describe how confidence impacts teamwork and collaboration.",
+        "Discuss the role of confidence in handling criticism.",
+        "Explain how maintaining confidence improves long-term goals."
+    ],
+    "formal": [
+        "Draft a formal executive summary outlining the main conclusions.",
+        "Write a professional memo addressing the key objectives.",
+        "Provide a structured analysis using formal academic language.",
+        "Compose a formal report section describing the methodology.",
+        "Prepare a polished introduction suitable for official documentation.",
+        "Write a formal evaluation supported by clear reasoning.",
+        "Develop a professional overview for senior stakeholders.",
+        "Summarize the information using precise and formal wording.",
+        "Compose a respectful and professional correspondence.",
+        "Provide a formally structured explanation with clear transitions."
+    ],
+    "sarcasm": [
+        "Respond with dry and obvious sarcasm.",
+        "Write a sarcastic reply using exaggerated praise.",
+        "Give a witty sarcastic comment full of mock surprise.",
+        "Respond with sharp sarcasm and playful mockery.",
+        "Write a sarcastic reaction showing fake enthusiasm.",
+        "Give a sarcastic observation highlighting irony.",
+        "Respond with a snarky and teasing sarcastic tone.",
+        "Write a sarcastic remark expressing humorous disbelief.",
+        "Give a sarcastic response that subtly mocks expectations.",
+        "Respond with dramatic and over-the-top sarcasm."
+    ],
+    "sports": [
+        "Describe how athletes prepare mentally for competition.",
+        "Explain the importance of teamwork in competitive sports.",
+        "Write a short analysis of a memorable sports match.",
+        "Describe the atmosphere inside a crowded sports stadium.",
+        "Explain how training routines improve athletic performance.",
+        "Write about the role of discipline in professional sports.",
+        "Describe a moment of victory in a championship game.",
+        "Explain how strategy influences the outcome of a match.",
+        "Write a motivational speech for a sports team before a match.",
+        "Describe how athletes recover after intense competition."
+    ],
+    "adult": [
+        "Explain the issue using mature and logical reasoning.",
+        "Describe the situation with practical adult judgment.",
+        "Write the response using responsible and thoughtful language.",
+        "Explain the topic with structured adult clarity.",
+        "Describe the moment with emotional maturity and restraint.",
+        "Respond with balanced and rational adult perspective.",
+        "Explain the decision-making process using adult reasoning.",
+        "Write with calm, deliberate, and experienced tone.",
+        "Describe the scenario with realistic adult awareness.",
+        "Explain the idea using disciplined and professional language."
+    ]
+}
