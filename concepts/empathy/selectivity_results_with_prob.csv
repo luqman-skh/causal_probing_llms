@@ -1,0 +1,151 @@
+prompt,concept,steering_strength,completeness_score,concept_prob_difference
+Present a definitive and authoritative command of the subject matter.,confidence,0.0,0.0,0.0
+Present a definitive and authoritative command of the subject matter.,confidence,2.0,0.31248072855023074,0.09409734163381592
+Present a definitive and authoritative command of the subject matter.,confidence,9.0,0.312480791436651,0.14016490535872447
+Compose a response that speaks with absolute conviction and total clarity.,confidence,0.0,0.0,0.0
+Compose a response that speaks with absolute conviction and total clarity.,confidence,2.0,0.2891869622408359,0.13172645025958105
+Compose a response that speaks with absolute conviction and total clarity.,confidence,9.0,0.2891871040368312,0.21879926269899172
+Draft a masterful and uncompromising argument for this position.,confidence,0.0,0.0,0.0
+Draft a masterful and uncompromising argument for this position.,confidence,2.0,0.531628199526034,0.08262130939089646
+Draft a masterful and uncompromising argument for this position.,confidence,9.0,0.5316350008016889,0.11749566540928832
+Provide a final and conclusive verdict on this topic.,confidence,0.0,0.0,0.0
+Provide a final and conclusive verdict on this topic.,confidence,2.0,0.6301830058692837,0.15759623652288776
+Provide a final and conclusive verdict on this topic.,confidence,9.0,0.6301849579038193,0.23674258452577077
+Deliver an expert-level synthesis that leaves no room for ambiguity.,confidence,0.0,0.0,0.0
+Deliver an expert-level synthesis that leaves no room for ambiguity.,confidence,2.0,0.5875116491159538,0.11445935155131619
+Deliver an expert-level synthesis that leaves no room for ambiguity.,confidence,9.0,0.5875223307830912,0.19402112551692485
+Write a bold manifesto that asserts these points with maximum impact.,confidence,0.0,0.0,0.0
+Write a bold manifesto that asserts these points with maximum impact.,confidence,2.0,0.30074932668740195,0.07885165285430532
+Write a bold manifesto that asserts these points with maximum impact.,confidence,9.0,0.30074942425361173,0.12914583047373757
+Offer a commanding perspective that radiates intellectual certainty.,confidence,0.0,0.0,0.0
+Offer a commanding perspective that radiates intellectual certainty.,confidence,2.0,0.27868663226278495,0.11894384932224797
+Offer a commanding perspective that radiates intellectual certainty.,confidence,9.0,0.2786867027906114,0.18897017257602153
+Construct a formidable and resolute explanation of the facts.,confidence,0.0,0.0,0.0
+Construct a formidable and resolute explanation of the facts.,confidence,2.0,0.3364588582751215,0.13995306005194136
+Construct a formidable and resolute explanation of the facts.,confidence,9.0,0.3364589779996446,0.25993921821168076
+"Provide a sharp, punchy, and undeniable statement of truth.",confidence,0.0,0.0,0.0
+"Provide a sharp, punchy, and undeniable statement of truth.",confidence,2.0,0.50986617213937,0.11630802711700983
+"Provide a sharp, punchy, and undeniable statement of truth.",confidence,9.0,0.509866624489332,0.17903838572975228
+Deliver a high-stakes assessment with the confidence of a seasoned expert.,confidence,0.0,0.0,0.0
+Deliver a high-stakes assessment with the confidence of a seasoned expert.,confidence,2.0,0.33197666857629143,0.1376474763801611
+Deliver a high-stakes assessment with the confidence of a seasoned expert.,confidence,9.0,0.331976909841552,0.199076185951404
+Draft a formal executive summary outlining the main conclusions.,formal,0.0,0.0,0.0
+Draft a formal executive summary outlining the main conclusions.,formal,2.0,0.27162138195377755,0.03303165531149365
+Draft a formal executive summary outlining the main conclusions.,formal,9.0,0.27162154609335903,0.042083964789757664
+Write a professional memo addressing the key objectives.,formal,0.0,0.0,0.0
+Write a professional memo addressing the key objectives.,formal,2.0,0.19213536123714234,0.10578474655988987
+Write a professional memo addressing the key objectives.,formal,9.0,0.19213539982688652,0.13011294431231624
+Provide a structured analysis using formal academic language.,formal,0.0,0.0,0.0
+Provide a structured analysis using formal academic language.,formal,2.0,0.20505438388137276,0.13145939918579
+Provide a structured analysis using formal academic language.,formal,9.0,0.20505442007220478,0.16092127527021002
+Compose a formal report section describing the methodology.,formal,0.0,0.0,0.0
+Compose a formal report section describing the methodology.,formal,2.0,0.23635439053718174,0.04183057618875909
+Compose a formal report section describing the methodology.,formal,9.0,0.23635443654200272,0.05320188108290427
+Prepare a polished introduction suitable for official documentation.,formal,0.0,0.0,0.0
+Prepare a polished introduction suitable for official documentation.,formal,2.0,0.3190049025259452,0.04037061196479831
+Prepare a polished introduction suitable for official documentation.,formal,9.0,0.31900497274332945,0.05105059550638932
+Write a formal evaluation supported by clear reasoning.,formal,0.0,0.0,0.0
+Write a formal evaluation supported by clear reasoning.,formal,2.0,0.14668509467958887,0.13478262318496315
+Write a formal evaluation supported by clear reasoning.,formal,9.0,0.14668511791194355,0.1662171841600649
+Develop a professional overview for senior stakeholders.,formal,0.0,0.0,0.0
+Develop a professional overview for senior stakeholders.,formal,2.0,0.15334330113132286,0.048007126800481546
+Develop a professional overview for senior stakeholders.,formal,9.0,0.15334333526595706,0.059609452771327086
+Summarize the information using precise and formal wording.,formal,0.0,0.0,0.0
+Summarize the information using precise and formal wording.,formal,2.0,0.4275931692835675,0.04017228369744849
+Summarize the information using precise and formal wording.,formal,9.0,0.4275936624582449,0.0508298844367792
+Compose a respectful and professional correspondence.,formal,0.0,0.0,0.0
+Compose a respectful and professional correspondence.,formal,2.0,0.11762935267185276,0.046377247731162446
+Compose a respectful and professional correspondence.,formal,9.0,0.11762937297611224,0.05889843281783918
+Provide a formally structured explanation with clear transitions.,formal,0.0,0.0,0.0
+Provide a formally structured explanation with clear transitions.,formal,2.0,0.2837592106551404,0.12834040546154563
+Provide a formally structured explanation with clear transitions.,formal,9.0,0.2837593589602858,0.15633078468287873
+Respond with dry and obvious sarcasm.,sarcasm,0.0,0.0,0.0
+Respond with dry and obvious sarcasm.,sarcasm,2.0,0.7791713719964992,-0.16479286944153682
+Respond with dry and obvious sarcasm.,sarcasm,9.0,0.795410138356031,-0.5106431187878366
+Write a sarcastic reply using exaggerated praise.,sarcasm,0.0,0.0,0.0
+Write a sarcastic reply using exaggerated praise.,sarcasm,2.0,0.8030042214981854,-0.09282082186843636
+Write a sarcastic reply using exaggerated praise.,sarcasm,9.0,0.8078346649005502,-0.5756583658163024
+Give a witty sarcastic comment full of mock surprise.,sarcasm,0.0,0.0,0.0
+Give a witty sarcastic comment full of mock surprise.,sarcasm,2.0,0.8196243875660773,-0.11399708902840557
+Give a witty sarcastic comment full of mock surprise.,sarcasm,9.0,0.8211941447991525,-0.43557872522279323
+Respond with sharp sarcasm and playful mockery.,sarcasm,0.0,0.0,0.0
+Respond with sharp sarcasm and playful mockery.,sarcasm,2.0,0.7585506457330737,-0.15485771226259812
+Respond with sharp sarcasm and playful mockery.,sarcasm,9.0,0.7697003421041566,-0.5588539818519186
+Write a sarcastic reaction showing fake enthusiasm.,sarcasm,0.0,0.0,0.0
+Write a sarcastic reaction showing fake enthusiasm.,sarcasm,2.0,0.8003033526564169,-0.13920128070302834
+Write a sarcastic reaction showing fake enthusiasm.,sarcasm,9.0,0.8067056867996651,-0.5992498183867667
+Give a sarcastic observation highlighting irony.,sarcasm,0.0,0.0,0.0
+Give a sarcastic observation highlighting irony.,sarcasm,2.0,0.8682070448297212,-0.1087512771089701
+Give a sarcastic observation highlighting irony.,sarcasm,9.0,0.8802584820358081,-0.5789422369645744
+Respond with a snarky and teasing sarcastic tone.,sarcasm,0.0,0.0,0.0
+Respond with a snarky and teasing sarcastic tone.,sarcasm,2.0,0.8001866184185629,-0.11411455010212768
+Respond with a snarky and teasing sarcastic tone.,sarcasm,9.0,0.8024430632297178,-0.4505827187807123
+Write a sarcastic remark expressing humorous disbelief.,sarcasm,0.0,0.0,0.0
+Write a sarcastic remark expressing humorous disbelief.,sarcasm,2.0,0.8085704885192704,-0.08906803870830746
+Write a sarcastic remark expressing humorous disbelief.,sarcasm,9.0,0.8130513892367682,-0.5902987954156653
+Give a sarcastic response that subtly mocks expectations.,sarcasm,0.0,0.0,0.0
+Give a sarcastic response that subtly mocks expectations.,sarcasm,2.0,0.8918468091078411,-0.0973209461234766
+Give a sarcastic response that subtly mocks expectations.,sarcasm,9.0,0.9016083689867327,-0.48664235740936485
+Respond with dramatic and over-the-top sarcasm.,sarcasm,0.0,0.0,0.0
+Respond with dramatic and over-the-top sarcasm.,sarcasm,2.0,0.8326126485057512,-0.1912136471408091
+Respond with dramatic and over-the-top sarcasm.,sarcasm,9.0,0.8360568703830004,-0.7199666739644068
+Describe how athletes prepare mentally for competition.,sports,0.0,0.0,0.0
+Describe how athletes prepare mentally for competition.,sports,2.0,0.5381486049071385,0.04350005429363518
+Describe how athletes prepare mentally for competition.,sports,9.0,0.5381489803439664,0.08768806488810943
+Explain the importance of teamwork in competitive sports.,sports,0.0,0.0,0.0
+Explain the importance of teamwork in competitive sports.,sports,2.0,0.18440426912269559,0.03939979461543337
+Explain the importance of teamwork in competitive sports.,sports,9.0,0.18440430832962307,0.07999411177606162
+Write a short analysis of a memorable sports match.,sports,0.0,0.0,0.0
+Write a short analysis of a memorable sports match.,sports,2.0,0.21251191294473515,0.06269927255844097
+Write a short analysis of a memorable sports match.,sports,9.0,0.21251196387425253,0.13582279690654367
+Describe the atmosphere inside a crowded sports stadium.,sports,0.0,0.0,0.0
+Describe the atmosphere inside a crowded sports stadium.,sports,2.0,0.6467362407619848,0.043149861513089575
+Describe the atmosphere inside a crowded sports stadium.,sports,9.0,0.6467366299563415,0.08587895108321511
+Explain how training routines improve athletic performance.,sports,0.0,0.0,0.0
+Explain how training routines improve athletic performance.,sports,2.0,0.3505810622028594,0.042473840230963116
+Explain how training routines improve athletic performance.,sports,9.0,0.35058113818002895,0.08630853776814645
+Write about the role of discipline in professional sports.,sports,0.0,0.0,0.0
+Write about the role of discipline in professional sports.,sports,2.0,0.19374439050951855,0.05356564255833473
+Write about the role of discipline in professional sports.,sports,9.0,0.19374446787165311,0.1126219668413922
+Describe a moment of victory in a championship game.,sports,0.0,0.0,0.0
+Describe a moment of victory in a championship game.,sports,2.0,0.4706102576690366,0.07552855331312924
+Describe a moment of victory in a championship game.,sports,9.0,0.4706106281101228,0.15982220415440554
+Explain how strategy influences the outcome of a match.,sports,0.0,0.0,0.0
+Explain how strategy influences the outcome of a match.,sports,2.0,0.38756853125584456,0.039005935999076646
+Explain how strategy influences the outcome of a match.,sports,9.0,0.38756862343585163,0.07933997229939209
+Write a motivational speech for a sports team before a match.,sports,0.0,0.0,0.0
+Write a motivational speech for a sports team before a match.,sports,2.0,0.07709180889626979,0.045763239311379336
+Write a motivational speech for a sports team before a match.,sports,9.0,0.07709182107788182,0.10251363581501804
+Describe how athletes recover after intense competition.,sports,0.0,0.0,0.0
+Describe how athletes recover after intense competition.,sports,2.0,0.5399402256636091,0.043463259993250604
+Describe how athletes recover after intense competition.,sports,9.0,0.5399407061573512,0.08762790234698714
+Explain the issue using mature and logical reasoning.,adult,0.0,0.0,0.0
+Explain the issue using mature and logical reasoning.,adult,2.0,0.3436786596685899,0.016037369985265736
+Explain the issue using mature and logical reasoning.,adult,9.0,0.3436788359409931,0.06904993548153433
+Describe the situation with practical adult judgment.,adult,0.0,0.0,0.0
+Describe the situation with practical adult judgment.,adult,2.0,0.6083263096028515,0.019559782323311136
+Describe the situation with practical adult judgment.,adult,9.0,0.6083268824010071,0.08101381328463403
+Write the response using responsible and thoughtful language.,adult,0.0,0.0,0.0
+Write the response using responsible and thoughtful language.,adult,2.0,0.13599539900915905,0.011287041708986312
+Write the response using responsible and thoughtful language.,adult,9.0,0.13599542477930207,0.046680318390943894
+Explain the topic with structured adult clarity.,adult,0.0,0.0,0.0
+Explain the topic with structured adult clarity.,adult,2.0,0.3958054638475821,0.01553060496892895
+Explain the topic with structured adult clarity.,adult,9.0,0.3958056782115114,0.06699949103636396
+Describe the moment with emotional maturity and restraint.,adult,0.0,0.0,0.0
+Describe the moment with emotional maturity and restraint.,adult,2.0,0.5917105384264068,0.01324151828535793
+Describe the moment with emotional maturity and restraint.,adult,9.0,0.5917113337517287,0.05468550701002079
+Respond with balanced and rational adult perspective.,adult,0.0,0.0,0.0
+Respond with balanced and rational adult perspective.,adult,2.0,0.3514966228038549,0.011342919560629978
+Respond with balanced and rational adult perspective.,adult,9.0,0.351496701262807,0.046401607459313016
+Explain the decision-making process using adult reasoning.,adult,0.0,0.0,0.0
+Explain the decision-making process using adult reasoning.,adult,2.0,0.28903181200747113,0.022425645767927077
+Explain the decision-making process using adult reasoning.,adult,9.0,0.28903186828465094,0.09492553626410284
+"Write with calm, deliberate, and experienced tone.",adult,0.0,0.0,0.0
+"Write with calm, deliberate, and experienced tone.",adult,2.0,0.29033292607738964,0.008344938006976296
+"Write with calm, deliberate, and experienced tone.",adult,9.0,0.2903330180058661,0.033992724159859405
+Describe the scenario with realistic adult awareness.,adult,0.0,0.0,0.0
+Describe the scenario with realistic adult awareness.,adult,2.0,0.5746587320948311,0.017540901767682096
+Describe the scenario with realistic adult awareness.,adult,9.0,0.574659178664404,0.07223603749521507
+Explain the idea using disciplined and professional language.,adult,0.0,0.0,0.0
+Explain the idea using disciplined and professional language.,adult,2.0,0.4169372501495827,0.01596680310682655
+Explain the idea using disciplined and professional language.,adult,9.0,0.4169374735619877,0.07170427274559144
