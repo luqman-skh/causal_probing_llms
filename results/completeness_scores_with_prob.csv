@@ -1,0 +1,41 @@
+class,prompt,strength,prob_11,prob_31
+positive,Write a gentle message to someone feeling overwhelmed by responsibilities.,0,0.9999999999967123,0.9815982979979895
+positive,Write a gentle message to someone feeling overwhelmed by responsibilities.,-9,3.248148044096307e-17,0.2997652887171004
+positive,Offer supportive words to someone afraid to start a new chapter in life.,0,0.9999999999941205,0.9807220565601132
+positive,Offer supportive words to someone afraid to start a new chapter in life.,-9,6.67664165311137e-16,0.5349633433012415
+positive,Respond kindly to someone who feels their efforts go unnoticed.,0,0.9999999999496835,0.7436610537386338
+positive,Respond kindly to someone who feels their efforts go unnoticed.,-9,1.0621503169141668e-19,0.0723373376444772
+positive,Provide a warm message to someone struggling with self-confidence.,0,0.9999999999959048,0.9204466727394295
+positive,Provide a warm message to someone struggling with self-confidence.,-9,2.3565097618571777e-17,0.5188656512507125
+positive,Write a caring note to someone dealing with sudden bad news.,0,0.9999999999958871,0.9748871650021356
+positive,Write a caring note to someone dealing with sudden bad news.,-9,2.2870923347010354e-17,0.40452972689983235
+positive,Offer comforting words to someone worrying about their family.,0,0.9999999999976554,0.9777725886705037
+positive,Offer comforting words to someone worrying about their family.,-9,1.797395557363317e-15,0.626566398385352
+positive,Respond compassionately to a friend who feels emotionally drained.,0,0.9999999999954261,0.9214597782855868
+positive,Respond compassionately to a friend who feels emotionally drained.,-9,2.8279463281498933e-17,0.29455577847031367
+positive,Write a supportive message to someone nervous about a difficult conversation.,0,0.9999999999970913,0.9791411594189104
+positive,Write a supportive message to someone nervous about a difficult conversation.,-9,1.3993991784700377e-16,0.4398817013340653
+positive,Offer reassurance to someone who feels like they’re falling behind in life.,0,0.9999999999979025,0.9070801495287001
+positive,Offer reassurance to someone who feels like they’re falling behind in life.,-9,4.1796111772419534e-16,0.40525350890476186
+positive,Write an understanding reply to someone who feels embarrassed about a mistake.,0,0.9999999999885527,0.8198319671228368
+positive,Write an understanding reply to someone who feels embarrassed about a mistake.,-9,7.246935755522547e-20,0.12736280797923827
+negative,Respond dismissively to someone overwhelmed by responsibilities.,0,0.9999806935379676,0.22568398762955116
+negative,Respond dismissively to someone overwhelmed by responsibilities.,9,1.0,0.8858294237166557
+negative,Tell someone afraid of starting a new chapter that their fear is silly.,0,0.9999997636780539,0.21969806146613624
+negative,Tell someone afraid of starting a new chapter that their fear is silly.,9,1.0,0.9026619371064712
+negative,Respond coldly to someone who feels their efforts go unnoticed.,0,0.9999590664820134,0.1957098630066657
+negative,Respond coldly to someone who feels their efforts go unnoticed.,9,1.0,0.7808775054964265
+negative,Criticize someone struggling with self-confidence instead of helping.,0,0.9999994134626655,0.3719309821464709
+negative,Criticize someone struggling with self-confidence instead of helping.,9,1.0,0.9285950055885753
+negative,Respond harshly to someone dealing with sudden bad news.,0,0.9999997148550941,0.27645990246845414
+negative,Respond harshly to someone dealing with sudden bad news.,9,1.0,0.8659883875158955
+negative,Tell someone worrying about their family to stop overthinking.,0,0.9999999275247488,0.17915917568377912
+negative,Tell someone worrying about their family to stop overthinking.,9,1.0,0.840226100406327
+negative,Respond impatiently to a friend who feels emotionally drained.,0,0.99999994607978,0.3095153755122545
+negative,Respond impatiently to a friend who feels emotionally drained.,9,1.0,0.9948839531158884
+negative,Tell someone nervous about a difficult conversation that it's not your problem.,0,0.9999999416680451,0.16465345293775405
+negative,Tell someone nervous about a difficult conversation that it's not your problem.,9,1.0,0.819715382552959
+negative,Respond bluntly to someone who feels like they’re falling behind.,0,0.9999999081921016,0.23584825965349937
+negative,Respond bluntly to someone who feels like they’re falling behind.,9,1.0,0.9936419190483297
+negative,Write a cold reply to someone embarrassed about a mistake.,0,0.9999997699537465,0.3480002598949855
+negative,Write a cold reply to someone embarrassed about a mistake.,9,1.0,0.9449856729565723
