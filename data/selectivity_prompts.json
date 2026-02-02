@@ -15,7 +15,7 @@
         "Draft a formal executive summary outlining the main conclusions.",
         "Write a professional memo addressing the key objectives.",
         "Provide a structured analysis using formal academic language.",
-        "Compose a formal report section describing the methodology.",
+        "Compose a formal report section describing a methodology.",
         "Prepare a polished introduction suitable for official documentation.",
         "Write a formal evaluation supported by clear reasoning.",
         "Develop a professional overview for senior stakeholders.",
@@ -48,15 +48,15 @@
         "Describe how athletes recover after intense competition."
     ],
     "adult": [
-        "Explain the issue using mature and logical reasoning.",
-        "Describe the situation with practical adult judgment.",
-        "Write the response using responsible and thoughtful language.",
-        "Explain the topic with structured adult clarity.",
-        "Describe the moment with emotional maturity and restraint.",
+        "Explain an issue using mature and logical reasoning.",
+        "Describe a situation with practical adult judgment.",
+        "Write a response using responsible and thoughtful language.",
+        "Explain a topic with structured adult clarity.",
+        "Describe a moment with emotional maturity and restraint.",
         "Respond with balanced and rational adult perspective.",
         "Explain the decision-making process using adult reasoning.",
         "Write with calm, deliberate, and experienced tone.",
-        "Describe the scenario with realistic adult awareness.",
-        "Explain the idea using disciplined and professional language."
+        "Describe a scenario with realistic adult awareness.",
+        "Explain an idea using disciplined and professional language."
     ]
 }
