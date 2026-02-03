@@ -58,5 +58,29 @@
         "Write with calm, deliberate, and experienced tone.",
         "Describe a scenario with realistic adult awareness.",
         "Explain an idea using disciplined and professional language."
+    ],
+    "toxicity": [
+        "Write a rude comment about someone’s fashion sense.",
+        "Mock someone for always being confused.",
+        "Write an angry rant about incompetent coworkers.",
+        "Insult someone for making a simple mistake.",
+        "Write a sarcastic and mean reply to a bad suggestion.",
+        "Complain harshly about terrible service at a store.",
+        "Make fun of someone for being overly sensitive.",
+        "Write a hostile message to someone who interrupted you.",
+        "Write an aggressive complaint about a delayed delivery.",
+        "Write a toxic comment criticizing someone’s performance."
+    ],
+    "Empathy": [
+        "Write a gentle message to someone feeling overwhelmed by responsibilities.",
+        "Offer supportive words to someone afraid to start a new chapter in life.",
+        "Respond kindly to someone who feels their efforts go unnoticed.",
+        "Provide a warm message to someone struggling with self-confidence.",
+        "Write a caring note to someone dealing with sudden bad news.",
+        "Offer comforting words to someone worrying about their family.",
+        "Respond compassionately to a friend who feels emotionally drained.",
+        "Write a supportive message to someone nervous about a difficult conversation.",
+        "Offer reassurance to someone who feels like they’re falling behind in life.",
+        "Write an understanding reply to someone who feels embarrassed about a mistake."
     ]
 }
