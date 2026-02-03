@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Give a commanding explanation demonstrating absolute confidence.",
+        "Provide a clear and unwavering statement of certainty.",
+        "Deliver a bold interpretation with strong conviction.",
+        "Share a decisive perspective grounded in firm belief.",
+        "Offer a confident conclusion expressed with authority.",
+        "Give a powerful analysis that leaves no room for doubt.",
+        "Provide a strong and assured evaluation with clarity.",
+        "Write an assertive summary projecting total confidence.",
+        "Deliver a firm argument supported by decisive reasoning.",
+        "Offer a confident declaration communicated with certainty."
+    ],
+    "negative": [
+        "Give a hesitant explanation reflecting uncertainty.",
+        "Provide a doubtful statement lacking firm belief.",
+        "Deliver a cautious interpretation marked by hesitation.",
+        "Share an unsure perspective filled with ambiguity.",
+        "Offer a tentative conclusion showing low confidence.",
+        "Give a wavering analysis that reflects doubt.",
+        "Provide an uncertain evaluation with unclear reasoning.",
+        "Write a hesitant summary expressing self-doubt.",
+        "Deliver a fragile argument lacking assurance.",
+        "Offer an unsure declaration communicated cautiously."
+    ]
+}
