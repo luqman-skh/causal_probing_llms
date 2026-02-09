@@ -1,0 +1,41 @@
+class,prompt,strength,prob_11,prob_31
+positive,Give a commanding explanation demonstrating absolute confidence.,0,0.8399789544744323,0.865899790613462
+positive,Give a commanding explanation demonstrating absolute confidence.,-9,3.6380054591899674e-16,0.47557608537999274
+positive,Provide a clear and unwavering statement of certainty.,0,0.8390827150563204,0.9165118027511425
+positive,Provide a clear and unwavering statement of certainty.,-9,2.192662706192558e-17,0.5359467237116105
+positive,Deliver a bold interpretation with strong conviction.,0,0.8221884187805961,0.8237819480469372
+positive,Deliver a bold interpretation with strong conviction.,-9,5.084666046714112e-16,0.4533204836443466
+positive,Share a decisive perspective grounded in firm belief.,0,0.8453782030449174,0.8691211488394414
+positive,Share a decisive perspective grounded in firm belief.,-9,5.90268826669826e-16,0.4746364118209813
+positive,Offer a confident conclusion expressed with authority.,0,0.7767970392485151,0.8124243541556119
+positive,Offer a confident conclusion expressed with authority.,-9,3.4865330634954917e-16,0.1611414713399401
+positive,Give a powerful analysis that leaves no room for doubt.,0,0.8561979281162663,0.7291133001314329
+positive,Give a powerful analysis that leaves no room for doubt.,-9,1.0353174907892183e-17,0.2561650852603407
+positive,Provide a strong and assured evaluation with clarity.,0,0.7992061892609045,0.9302089482567862
+positive,Provide a strong and assured evaluation with clarity.,-9,1.4910946279365762e-15,0.5775474107680257
+positive,Write an assertive summary projecting total confidence.,0,0.7663383113565214,0.8937952148283942
+positive,Write an assertive summary projecting total confidence.,-9,1.5276701351586849e-16,0.44803203373543704
+positive,Deliver a firm argument supported by decisive reasoning.,0,0.8387651370519668,0.848651960160253
+positive,Deliver a firm argument supported by decisive reasoning.,-9,2.3018110475032343e-16,0.6239591703909176
+positive,Offer a confident declaration communicated with certainty.,0,0.8078164901840804,0.8551989931581992
+positive,Offer a confident declaration communicated with certainty.,-9,1.513287423497705e-17,0.1778800063457918
+negative,Give a hesitant explanation reflecting uncertainty.,0,0.12295529423875987,0.1593285054876645
+negative,Give a hesitant explanation reflecting uncertainty.,9,0.9999999999999993,0.7750208934772922
+negative,Provide a doubtful statement lacking firm belief.,0,0.1342791882659591,0.3793840723133581
+negative,Provide a doubtful statement lacking firm belief.,9,1.0,0.9918888060325828
+negative,Deliver a cautious interpretation marked by hesitation.,0,0.16287871203543844,0.2510277431192341
+negative,Deliver a cautious interpretation marked by hesitation.,9,1.0,0.6732067604034856
+negative,Share an unsure perspective filled with ambiguity.,0,0.07842059970243517,0.045548892050089634
+negative,Share an unsure perspective filled with ambiguity.,9,0.9999999999999993,0.7403210597280243
+negative,Offer a tentative conclusion showing low confidence.,0,0.18797509933422765,0.3053760081209843
+negative,Offer a tentative conclusion showing low confidence.,9,1.0,0.9917135683248973
+negative,Give a wavering analysis that reflects doubt.,0,0.2111760936221613,0.24426152492014533
+negative,Give a wavering analysis that reflects doubt.,9,0.9999999999999999,0.9567419891931171
+negative,Provide an uncertain evaluation with unclear reasoning.,0,0.12804370654738473,0.22104477848667176
+negative,Provide an uncertain evaluation with unclear reasoning.,9,0.9999999999999984,0.8947948997204496
+negative,Write a hesitant summary expressing self-doubt.,0,0.06939467896766015,0.176033690670669
+negative,Write a hesitant summary expressing self-doubt.,9,0.9999999999999993,0.7864098684016417
+negative,Deliver a fragile argument lacking assurance.,0,0.17573189723157445,0.3000788193723652
+negative,Deliver a fragile argument lacking assurance.,9,1.0,0.9103012139975308
+negative,Offer an unsure declaration communicated cautiously.,0,0.14500576152119676,0.2990634939098855
+negative,Offer an unsure declaration communicated cautiously.,9,0.9999999999999998,0.8365678814346457
