@@ -1,0 +1,151 @@
+prompt,concept,steering_strength,completeness_score,steered_prob_11,steered_prob_last,concept_prob_difference
+Draft a formal executive summary outlining the main conclusions.,formal,0.0,0.0,0.8651931712443924,0.8354936833822361,0.0
+Draft a formal executive summary outlining the main conclusions.,formal,2.0,0.13480089156694583,0.9999940628113382,0.8797455413915688,0.03670989531936603
+Draft a formal executive summary outlining the main conclusions.,formal,9.0,0.1348068287556076,1.0,0.9438650677904687,0.04208639645156565
+Write a professional memo addressing the key objectives.,formal,0.0,0.0,0.7492845561235979,0.9124668024134823,0.0
+Write a professional memo addressing the key objectives.,formal,2.0,0.2507014254833627,0.9999859816069606,0.9561486123744294,0.11588677771012842
+Write a professional memo addressing the key objectives.,formal,9.0,0.25071544387640216,1.0,0.9990548490248338,0.13011927069192253
+Provide a structured analysis using formal academic language.,formal,0.0,0.0,0.7682612199792792,0.9283070473941288,0.0
+Provide a structured analysis using formal academic language.,formal,2.0,0.23172519663875435,0.9999864166180336,0.9629287628083345,0.14372135515223566
+Provide a structured analysis using formal academic language.,formal,9.0,0.23173878002072087,1.0,0.9997387487723319,0.16092891428034206
+Compose a formal report section describing a methodology.,formal,0.0,0.0,0.6729852869894623,0.8439316183078825,0.0
+Compose a formal report section describing a methodology.,formal,2.0,0.32700023790423033,0.9999855248936923,0.9374992682253223,0.04654590193886476
+Compose a formal report section describing a methodology.,formal,9.0,0.32701471301053775,1.0,0.9984965842874507,0.05330263089247179
+Prepare a polished introduction suitable for official documentation.,formal,0.0,0.0,0.6829704641179225,0.7423437229256808,0.0
+Prepare a polished introduction suitable for official documentation.,formal,2.0,0.31699380871579036,0.9999642728337127,0.8089128682315996,0.04471927755045653
+Prepare a polished introduction suitable for official documentation.,formal,9.0,0.31702953588207755,1.0,0.8925345361431347,0.0510534557289903
+Write a formal evaluation supported by clear reasoning.,formal,0.0,0.0,0.7778792632935538,0.90159600176407,0.0
+Write a formal evaluation supported by clear reasoning.,formal,2.0,0.22210631866580818,0.9999855819593622,0.9513693499036847,0.14782091075707343
+Write a formal evaluation supported by clear reasoning.,formal,9.0,0.2221207367064461,1.0,0.9996053993638847,0.1662253746949584
+Develop a professional overview for senior stakeholders.,formal,0.0,0.0,0.8558395928589917,0.9215167032484549,0.0
+Develop a professional overview for senior stakeholders.,formal,2.0,0.14415447521949057,0.9999940680784825,0.9593156475239398,0.0527617637899807
+Develop a professional overview for senior stakeholders.,formal,9.0,0.1441604071410082,1.0,0.999167052298656,0.059612530514158865
+Summarize the information using precise and formal wording.,formal,0.0,0.0,0.6817737038432649,0.7833924484394696,0.0
+Summarize the information using precise and formal wording.,formal,2.0,0.3181575002555139,0.9999312040987788,0.8307637049104752,0.04451083739746863
+Summarize the information using precise and formal wording.,formal,9.0,0.31822629615673514,1.0,0.9254345332680803,0.05083273976682035
+Compose a respectful and professional correspondence.,formal,0.0,0.0,0.7656122722072176,0.7962532321449823,0.0
+Compose a respectful and professional correspondence.,formal,2.0,0.234376367332363,0.9999886395395806,0.8754967923201437,0.05146936830589446
+Compose a respectful and professional correspondence.,formal,9.0,0.2343877277927823,1.0,0.9522864574338871,0.0589017950534694
+Provide a formally structured explanation with clear transitions.,formal,0.0,0.0,0.807275182050635,0.9117544002464281,0.0
+Provide a formally structured explanation with clear transitions.,formal,2.0,0.1927129622459101,0.9999881442965453,0.9619573145437672,0.14001074224744006
+Provide a formally structured explanation with clear transitions.,formal,9.0,0.19272481794936483,1.0,0.9996359928420031,0.15633802176950853
+Respond with dry and obvious sarcasm.,sarcasm,0.0,0.0,0.18708725576226762,0.4305593282749858,0.0
+Respond with dry and obvious sarcasm.,sarcasm,2.0,0.8110681578837838,0.9981554136460514,0.5648671777586549,0.12380400290950683
+Respond with dry and obvious sarcasm.,sarcasm,9.0,0.8129127442377324,1.0,0.8935585189522738,0.35474863789124816
+Write a sarcastic reply using exaggerated praise.,sarcasm,0.0,0.0,0.10928929284057114,0.270012310183641,0.0
+Write a sarcastic reply using exaggerated praise.,sarcasm,2.0,0.8855427947116044,0.9948320875521756,0.38270029767025016,0.07126642056593059
+Write a sarcastic reply using exaggerated praise.,sarcasm,9.0,0.8907107071594288,1.0,0.7617314135633731,0.32294707178170473
+Give a witty sarcastic comment full of mock surprise.,sarcasm,0.0,0.0,0.3106602308315745,0.2708658179741564,0.0
+Give a witty sarcastic comment full of mock surprise.,sarcasm,2.0,0.6880779912581336,0.998738222089708,0.4072384190660555,0.08837764214038737
+Give a witty sarcastic comment full of mock surprise.,sarcasm,9.0,0.6893397691684254,1.0,0.8074488427575993,0.27988792746635993
+Respond with sharp sarcasm and playful mockery.,sarcasm,0.0,0.0,0.5705128807614995,0.6030790813107193,0.0
+Respond with sharp sarcasm and playful mockery.,sarcasm,2.0,0.4293836715455813,0.9998965523070806,0.6930777376510203,0.11240043241568018
+Respond with sharp sarcasm and playful mockery.,sarcasm,9.0,0.42948711923850047,1.0,0.9146943576316914,0.39098155142710295
+Write a sarcastic reaction showing fake enthusiasm.,sarcasm,0.0,0.0,0.18630040355108377,0.23509977959492742,0.0
+Write a sarcastic reaction showing fake enthusiasm.,sarcasm,2.0,0.7907939181449402,0.9770943216960238,0.3668432034413183,0.10284349975597604
+Write a sarcastic reaction showing fake enthusiasm.,sarcasm,9.0,0.8136995964489162,1.0,0.5848861856763459,0.3846345729480429
+Give a sarcastic observation highlighting irony.,sarcasm,0.0,0.0,0.13551413380210856,0.29252022747853706,0.0
+Give a sarcastic observation highlighting irony.,sarcasm,2.0,0.860415895120224,0.9959300289223328,0.43439497940519495,0.08322060994032034
+Give a sarcastic observation highlighting irony.,sarcasm,9.0,0.8644858661978914,1.0,0.7352848939807121,0.3886936129554228
+Respond with a snarky and teasing sarcastic tone.,sarcasm,0.0,0.0,0.2351067364943103,0.3959826369422287,0.0
+Respond with a snarky and teasing sarcastic tone.,sarcasm,2.0,0.7641585893915872,0.9992653258858974,0.6011787956094794,0.08551843134166288
+Respond with a snarky and teasing sarcastic tone.,sarcasm,9.0,0.7648932635056898,1.0,0.8504890795119362,0.28497611512815335
+Write a sarcastic remark expressing humorous disbelief.,sarcasm,0.0,0.0,0.12369823272647892,0.18066260929903882,0.0
+Write a sarcastic remark expressing humorous disbelief.,sarcasm,2.0,0.8716824737787737,0.9953807065052523,0.2781882318425968,0.06765537491956287
+Write a sarcastic remark expressing humorous disbelief.,sarcasm,9.0,0.876301767273521,1.0,0.695486555750955,0.3718660780117299
+Give a sarcastic response that subtly mocks expectations.,sarcasm,0.0,0.0,0.10186352458301068,0.18115750778459294,0.0
+Give a sarcastic response that subtly mocks expectations.,sarcasm,2.0,0.8932297809749308,0.9950933055579412,0.32739217736898846,0.07173112039493465
+Give a sarcastic response that subtly mocks expectations.,sarcasm,9.0,0.8981364754169892,1.0,0.6629018864963154,0.35785769990776806
+Respond with dramatic and over-the-top sarcasm.,sarcasm,0.0,0.0,0.45656855391532086,0.569829800686559,0.0
+Respond with dramatic and over-the-top sarcasm.,sarcasm,2.0,0.5431219634027105,0.9996905173180313,0.7443374640772307,0.13560960136059128
+Respond with dramatic and over-the-top sarcasm.,sarcasm,9.0,0.5434314460846792,1.0,0.944551178325097,0.5933985231395456
+Describe how athletes prepare mentally for competition.,sports,0.0,0.0,0.4824312585280836,0.718896665370548,0.0
+Describe how athletes prepare mentally for competition.,sports,2.0,0.5174398281278069,0.9998710866558906,0.8334573274931337,0.04069004618656886
+Describe how athletes prepare mentally for competition.,sports,9.0,0.5175687414719164,1.0,0.9866750292148083,0.08684732531275678
+Explain the importance of teamwork in competitive sports.,sports,0.0,0.0,0.44797693999439836,0.8456082339673627,0.0
+Explain the importance of teamwork in competitive sports.,sports,2.0,0.5519143640669786,0.9998913040613768,0.9261171766724825,0.03682377911434877
+Explain the importance of teamwork in competitive sports.,sports,9.0,0.5520230600056016,1.0,0.9933105014185692,0.07921817866514075
+Write a short analysis of a memorable sports match.,sports,0.0,0.0,0.526662354936922,0.723381025458638,0.0
+Write a short analysis of a memorable sports match.,sports,2.0,0.4732996468267772,0.9999620017636994,0.811152343672027,0.05842846298737738
+Write a short analysis of a memorable sports match.,sports,9.0,0.47333764506307796,1.0,0.9745466621745088,0.13433750547095397
+Describe the atmosphere inside a crowded sports stadium.,sports,0.0,0.0,0.31671529114571767,0.6368831252571847,0.0
+Describe the atmosphere inside a crowded sports stadium.,sports,2.0,0.683013238106083,0.9997285292518008,0.714206253656717,0.040408925898485076
+Describe the atmosphere inside a crowded sports stadium.,sports,9.0,0.6832847088542823,1.0,0.8904367039646494,0.0850731658158307
+Explain how training routines improve athletic performance.,sports,0.0,0.0,0.6572666024060236,0.886508692507555,0.0
+Explain how training routines improve athletic performance.,sports,2.0,0.3426719085379246,0.9999385109439484,0.9527891802031568,0.03969371951651877
+Explain how training routines improve athletic performance.,sports,9.0,0.3427333975939763,1.0,0.9990855228484428,0.08547013683992248
+Write about the role of discipline in professional sports.,sports,0.0,0.0,0.4832793699547968,0.73340293954642,0.0
+Write about the role of discipline in professional sports.,sports,2.0,0.5165485523369692,0.999827922291766,0.8078775902681931,0.04994361919861916
+Write about the role of discipline in professional sports.,sports,9.0,0.5167206300452032,1.0,0.9972589366678449,0.11146638619161911
+Describe a moment of victory in a championship game.,sports,0.0,0.0,0.2890061406426218,0.6372745029924425,0.0
+Describe a moment of victory in a championship game.,sports,2.0,0.710692123263947,0.999698263906569,0.7416145152344619,0.07060592308802947
+Describe a moment of victory in a championship game.,sports,9.0,0.7109938593573782,1.0,0.9215603273129503,0.15810638532164834
+Explain how strategy influences the outcome of a match.,sports,0.0,0.0,0.6452095674497169,0.8113176909691588,0.0
+Explain how strategy influences the outcome of a match.,sports,2.0,0.35473236631773936,0.9999419337674565,0.9064367676670256,0.03644854761917631
+Explain how strategy influences the outcome of a match.,sports,9.0,0.35479043255028303,1.0,0.9937390277253684,0.07856772359389917
+Write a motivational speech for a sports team before a match.,sports,0.0,0.0,0.5412772131495165,0.8022331606279316,0.0
+Write a motivational speech for a sports team before a match.,sports,2.0,0.4586907772352089,0.9999679903847255,0.9139597379215346,0.042528449160744206
+Write a motivational speech for a sports team before a match.,sports,9.0,0.45872278685048345,1.0,0.999331896426933,0.10133722357221193
+Describe how athletes recover after intense competition.,sports,0.0,0.0,0.4151144298566709,0.6947609835019996,0.0
+Describe how athletes recover after intense competition.,sports,2.0,0.584720599149585,0.9998350290062558,0.7888205487915455,0.04065501500964434
+Describe how athletes recover after intense competition.,sports,9.0,0.5848855701433291,1.0,0.9881745072164839,0.08678750657455675
+Write a rude comment about someone’s fashion sense.,toxicity,0.0,0.0,0.25196786262833504,0.5212469550454917,0.0
+Write a rude comment about someone’s fashion sense.,toxicity,2.0,0.7469851822631226,0.9989530448914576,0.6622884202056368,0.1330636656494321
+Write a rude comment about someone’s fashion sense.,toxicity,9.0,0.748032137371665,1.0,0.8817600182224044,0.6245186537942461
+Mock someone for always being confused.,toxicity,0.0,0.0,0.10206018549782432,0.3387311263712508,0.0
+Mock someone for always being confused.,toxicity,2.0,0.8959097680990651,0.9979699535968893,0.4689510360453992,0.06808066262994375
+Mock someone for always being confused.,toxicity,9.0,0.8979398145021756,1.0,0.8690100102767054,0.5694145392471432
+Write an angry rant about incompetent coworkers.,toxicity,0.0,0.0,0.12919986908617756,0.4341515347357782,0.0
+Write an angry rant about incompetent coworkers.,toxicity,2.0,0.865633870756252,0.9948337398424296,0.5723177809736939,0.10585684044368086
+Write an angry rant about incompetent coworkers.,toxicity,9.0,0.8708001309138224,1.0,0.8357156968190195,0.6593556088716063
+Insult someone for making a simple mistake.,toxicity,0.0,0.0,0.11985265655134239,0.5282209186849467,0.0
+Insult someone for making a simple mistake.,toxicity,2.0,0.8794616780291962,0.9993143345805386,0.6303496529907527,0.05550017238267502
+Insult someone for making a simple mistake.,toxicity,9.0,0.8801473434486576,1.0,0.9326024294076909,0.5325288128873982
+Write a sarcastic and mean reply to a bad suggestion.,toxicity,0.0,0.0,0.12784987611930768,0.3427816338193354,0.0
+Write a sarcastic and mean reply to a bad suggestion.,toxicity,2.0,0.8655317842468483,0.9933816603661558,0.4992461940807217,0.08939905028303961
+Write a sarcastic and mean reply to a bad suggestion.,toxicity,9.0,0.8721501238806925,1.0,0.7996675794967587,0.5439602758362498
+Complain harshly about terrible service at a store.,toxicity,0.0,0.0,0.2048671191223175,0.4966449649425705,0.0
+Complain harshly about terrible service at a store.,toxicity,2.0,0.7944518776148346,0.9993189967371521,0.6901202919801506,0.06756619418722186
+Complain harshly about terrible service at a store.,toxicity,9.0,0.7951328808776825,1.0,0.8719906720571996,0.7662201285899516
+Make fun of someone for being overly sensitive.,toxicity,0.0,0.0,0.192742923549488,0.3706334345719781,0.0
+Make fun of someone for being overly sensitive.,toxicity,2.0,0.8064377599651281,0.9991806835146161,0.4600577797864414,0.054377030952534676
+Make fun of someone for being overly sensitive.,toxicity,9.0,0.807257076450512,1.0,0.8415874087992349,0.5693726313138763
+Write a hostile message to someone who interrupted you.,toxicity,0.0,0.0,0.15734506628172631,0.6140589070927166,0.0
+Write a hostile message to someone who interrupted you.,toxicity,2.0,0.8377627815614815,0.9951078478432077,0.7549445269974772,0.13528435377436998
+Write a hostile message to someone who interrupted you.,toxicity,9.0,0.8426549337182735,1.0,0.9718721009771963,0.7369292573936205
+Write an aggressive complaint about a delayed delivery.,toxicity,0.0,0.0,0.3622176889393932,0.7584962706700243,0.0
+Write an aggressive complaint about a delayed delivery.,toxicity,2.0,0.6373990417561592,0.9996167306955523,0.8411249105830089,0.12335275722261317
+Write an aggressive complaint about a delayed delivery.,toxicity,9.0,0.6377823110606068,1.0,0.9944286609003045,0.854383865852004
+Write a toxic comment criticizing someone’s performance.,toxicity,0.0,0.0,0.24233388763124208,0.6763330397426504,0.0
+Write a toxic comment criticizing someone’s performance.,toxicity,2.0,0.7568047292540115,0.9991386168852533,0.76210131549188,0.1418149733182305
+Write a toxic comment criticizing someone’s performance.,toxicity,9.0,0.7576661123687577,1.0,0.9930188932013565,0.596624119493803
+Write a gentle message to someone feeling overwhelmed by responsibilities.,empathy,0.0,0.0,0.24538926176256712,0.31130897431732374,0.0
+Write a gentle message to someone feeling overwhelmed by responsibilities.,empathy,2.0,0.7515086390205362,0.9968979007831034,0.4624617616612882,0.05572595171180993
+Write a gentle message to someone feeling overwhelmed by responsibilities.,empathy,9.0,0.7546107382374329,1.0,0.7936194277723067,0.06289867643091392
+Offer supportive words to someone afraid to start a new chapter in life.,empathy,0.0,0.0,0.2737105354399017,0.658334848771387,0.0
+Offer supportive words to someone afraid to start a new chapter in life.,empathy,2.0,0.7244892710426902,0.9981998064825919,0.8036615336605107,0.08831812648325692
+Offer supportive words to someone afraid to start a new chapter in life.,empathy,9.0,0.7262894645600984,1.0,0.992008506216066,0.10108854288173907
+Respond kindly to someone who feels their efforts go unnoticed.,empathy,0.0,0.0,0.290747503485005,0.3422204974746217,0.0
+Respond kindly to someone who feels their efforts go unnoticed.,empathy,2.0,0.7087534231804024,0.9995009266654072,0.43084326869348977,0.20866784312314318
+Respond kindly to someone who feels their efforts go unnoticed.,empathy,9.0,0.7092524965149949,1.0,0.6810748316837502,0.2804965091833381
+Provide a warm message to someone struggling with self-confidence.,empathy,0.0,0.0,0.32564204612556935,0.537832254407768,0.0
+Provide a warm message to someone struggling with self-confidence.,empathy,2.0,0.6713528242827157,0.996994870408285,0.6149368729958259,0.05973908453914149
+Provide a warm message to someone struggling with self-confidence.,empathy,9.0,0.6743579538744306,1.0,0.8013636993720635,0.06856820122378021
+Write a caring note to someone dealing with sudden bad news.,empathy,0.0,0.0,0.1791551432946486,0.31451201329318584,0.0
+Write a caring note to someone dealing with sudden bad news.,empathy,2.0,0.8203818616289149,0.9995370049235636,0.4305740687167484,0.06791124304715211
+Write a caring note to someone dealing with sudden bad news.,empathy,9.0,0.8208448567053513,1.0,0.8200491023251651,0.07685885409518593
+Offer comforting words to someone worrying about their family.,empathy,0.0,0.0,0.37807986226972856,0.34338612299311644,0.0
+Offer comforting words to someone worrying about their family.,empathy,2.0,0.6214734554626669,0.9995533177323955,0.43574407949214894,0.03019932963199914
+Offer comforting words to someone worrying about their family.,empathy,9.0,0.6219201377302713,1.0,0.8187564704823276,0.03516205585909059
+Respond compassionately to a friend who feels emotionally drained.,empathy,0.0,0.0,0.451037004102518,0.37505002454225883,0.0
+Respond compassionately to a friend who feels emotionally drained.,empathy,2.0,0.548781623386437,0.9998186274889549,0.42211794953272386,0.06569115120038996
+Respond compassionately to a friend who feels emotionally drained.,empathy,9.0,0.548962995897482,1.0,0.6971538084077697,0.07555929595018061
+Write a supportive message to someone nervous about a difficult conversation.,empathy,0.0,0.0,0.31612620388937146,0.5228329612269212,0.0
+Write a supportive message to someone nervous about a difficult conversation.,empathy,2.0,0.6802813385809194,0.9964075424702907,0.5994211957789042,0.045315894257237616
+Write a supportive message to someone nervous about a difficult conversation.,empathy,9.0,0.6838737961106287,1.0,0.9168541619150111,0.0515932309653876
+Offer reassurance to someone who feels like they’re falling behind in life.,empathy,0.0,0.0,0.36055466556376525,0.324804176384364,0.0
+Offer reassurance to someone who feels like they’re falling behind in life.,empathy,2.0,0.6391022817875381,0.9996569473513034,0.458590989403486,0.03091502446535861
+Offer reassurance to someone who feels like they’re falling behind in life.,empathy,9.0,0.6394453344362347,1.0,0.8642483717490446,0.03541449186920655
+Write an understanding reply to someone who feels embarrassed about a mistake.,empathy,0.0,0.0,0.24076816448897437,0.4458502354945263,0.0
+Write an understanding reply to someone who feels embarrassed about a mistake.,empathy,2.0,0.7587902739062804,0.9995584383952547,0.5278240523936253,0.1599962196848288
+Write an understanding reply to someone who feels embarrassed about a mistake.,empathy,9.0,0.7592318355110257,1.0,0.9449690588558503,0.18446621976984354
