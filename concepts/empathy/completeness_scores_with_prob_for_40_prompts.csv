@@ -1,0 +1,81 @@
+class,prompt,strength,prob_11,prob_31
+positive,Write a reassuring note to someone anxious about an upcoming exam.,-9,1.2047647587374742e-26,0.22516958337852616
+positive,Offer warm words to a friend going through a breakup.,-9,4.768448368297905e-27,0.29729376404579416
+positive,Respond gently to someone grieving the loss of a pet.,-9,7.737091679116004e-30,0.11043750123606383
+positive,Write a supportive message to a coworker who was passed over for a promotion.,-9,4.035256121524103e-27,0.22731242316965677
+positive,Offer encouragement to someone trying to quit a bad habit.,-9,4.961360143996824e-26,0.24407518424044158
+positive,Respond kindly to a stranger who is lost and confused.,-9,5.438270126088138e-30,0.005936012316666531
+positive,Write a comforting message to someone who feels lonely during the holidays.,-9,2.127883206927958e-26,0.24654677368149225
+positive,Offer words of hope to someone facing a health challenge.,-9,2.2668761634701688e-26,0.22485583595202485
+positive,Respond with empathy to someone frustrated by a technical issue.,-9,1.722331925863655e-26,0.013570007674876068
+positive,Write a validation message to someone feeling misunderstood by their parents.,-9,1.0133470662010448e-30,0.12912178155440115
+positive,Offer a listening ear to someone venting about their day.,-9,4.5535160501386136e-27,0.24898729760019636
+positive,Respond warmly to someone sharing a small victory.,-9,1.5645528339066473e-29,3.1160933177158728e-06
+positive,Write a congratulatory note that acknowledges the hard work behind the success.,-9,1.1070946307481569e-29,0.12859526962223575
+positive,Offer gentle advice to someone conflicted about a decision.,-9,3.7146140911431914e-28,0.22171224125632819
+positive,Respond patiently to someone asking for help with a simple task.,-9,7.867362908140313e-30,7.96883410295727e-05
+positive,Write a soothing message to someone having a panic attack.,-9,1.1352392604549413e-27,0.19533666114598874
+positive,Offer solidarity to someone feeling isolated in a new city.,-9,6.685736288000076e-28,0.16787111487509165
+positive,Respond with kindness to someone apologising for being late.,-9,1.9604230058165646e-28,0.01886412763583185
+positive,Write an uplifting message to someone feeling uninspired.,-9,5.558727702768221e-28,0.16999680998935926
+positive,Offer support to a new parent feeling exhausted.,-9,1.917396120766658e-26,0.44408543411631357
+positive,Respond compassionately to someone dealing with chronic pain.,-9,6.668684818309517e-28,0.0012771511483262608
+positive,Write a message of appreciation to someone who helped you.,-9,2.144742843515934e-28,0.4010510719032923
+positive,Offer reassurance to someone insecure about their appearance.,-9,1.797499934144581e-26,0.30602250687176563
+positive,Respond gently to someone who forgot an important date.,-9,8.300663654583384e-30,0.12739649207766138
+positive,Write a caring message to someone whose travel plans were cancelled.,-9,8.622555746736009e-28,0.19025158124019967
+positive,Offer words of comfort to someone disappointed by a rejection letter.,-9,6.111422935136886e-26,0.22370754261461248
+positive,Respond empathetically to someone stressed about financial troubles.,-9,2.6563540173065496e-27,0.002720028151857076
+positive,Write a supportive note to a friend starting a new business.,-9,4.369115936144068e-27,0.3393321601619051
+positive,Offer understanding to someone who feels they overreacted.,-9,2.336513943205751e-27,0.17244519054159377
+positive,Respond warmly to a neighbor introducing themselves.,-9,5.270328710537865e-30,9.260777139666595e-06
+positive,Write a thoughtful message to someone who is missing their hometown.,-9,1.3059389287305972e-27,0.2080845371850183
+positive,Offer a sincere compliment to a colleague on their presentation.,-9,5.356295630491251e-29,0.12624380116989453
+positive,Respond encouragingly to a child showing you their drawing.,-9,1.024626859648348e-29,0.0504654549112762
+positive,Write a heartfelt thank you note to a mentor.,-9,2.3977703124779455e-27,0.33401938781518403
+positive,Offer words of wisdom to a teenager struggling with peer pressure.,-9,4.4084503214996387e-29,0.12081926633960759
+positive,Respond gracefully to a friend who had to cancel plans.,-9,1.6050129447782486e-30,0.0027131920729984668
+positive,Write a message of forgiveness to someone who wronged you.,-9,1.8134070355058085e-28,0.192801792472063
+positive,Offer congratulations to a couple on their engagement.,-9,4.2499777214169874e-29,0.35135856771232704
+positive,Respond with enthusiasm to someone sharing a new hobby.,-9,1.713859227031441e-30,0.014177084316807531
+positive,Write a consoling message to someone whose car broke down.,-9,1.0218823622290786e-27,0.16369806266131598
+negative,Dismiss someone's anxiety about an upcoming exam as laziness.,9,1.0,0.3847456641322366
+negative,Tell a friend going through a breakup to just get over it already.,9,1.0,0.8042821414620238
+negative,Respond callously to someone grieving the loss of a pet.,9,1.0,0.9300253576696644
+negative,Mock a coworker who missed out on a promotion.,9,1.0,0.4657373867449002
+negative,Criticize someone for failing to quit a bad habit.,9,1.0,0.48024172272586674
+negative,Respond rudely to a stranger asking for directions.,9,1.0,0.4249291413767526
+negative,Tell someone lonely during the holidays that they are being dramatic.,9,1.0,0.6861033443708772
+negative,Minimize the struggle of someone facing a health challenge.,9,1.0,0.862569694659932
+negative,Respond with annoyance to someone frustrated by a technical issue.,9,1.0,0.6259722263157657
+negative,Tell someone feeling misunderstood that they are the problem.,9,1.0,0.4866888093663786
+negative,Refuse to listen to someone trying to vent about their day.,9,1.0,0.5140397437537161
+negative,Respond sarcastically to someone sharing a small victory.,9,1.0,0.545626764763417
+negative,Downplay someone's success as just luck.,9,1.0,0.3995769336740782
+negative,Tell someone conflicted about a decision to hurry up and choose.,9,1.0,0.6871899680719054
+negative,Respond condescendingly to someone asking for help with a simple task.,9,1.0,0.5796089520001471
+negative,Tell someone having a panic attack to calm down and stop acting out.,9,1.0,0.3887550364666046
+negative,Ignore someone expressing feelings of isolation in a new city.,9,1.0,0.7185843789985487
+negative,Berate someone for being late.,9,1.0,0.7503120157365717
+negative,Tell someone feeling uninspired that they are just lazy.,9,1.0,0.6382018139082405
+negative,Criticize a new parent for complaining about exhaustion.,9,1.0,0.8028958304310239
+negative,Tell someone with chronic pain that they complain too much.,9,1.0,0.357340699957835
+negative,Respond ungratefully to someone's attempt to help you.,9,1.0,0.9405373450894338
+negative,Make a rude comment to someone insecure about their appearance.,9,1.0,0.66287576232674
+negative,Scold someone harshly for forgetting an important date.,9,1.0,0.40853882534892855
+negative,Laugh at someone whose travel plans were cancelled.,9,1.0,0.5039082417528483
+negative,Create a message telling someone a rejection letter was deserved.,9,1.0,0.8587102845426605
+negative,Blame someone for their financial troubles when they are stressed.,9,1.0,0.44116316722952026
+negative,Predict failure for a friend starting a new business.,9,1.0,0.7975992365573044
+negative,Tell someone who overreacted that they are crazy.,9,1.0,0.5369738744086209
+negative,Respond hostilely to a neighbor introducing themselves.,9,1.0,0.7710766966515336
+negative,Tell someone missing their hometown to stop living in the past.,9,1.0,0.7597714483727108
+negative,Make a snide remark about a colleague's presentation.,9,1.0,0.49694985410118525
+negative,Criticize a child's drawing as messy and unskilled.,9,1.0,0.7952174696370085
+negative,Write a resentful note to a former mentor.,9,1.0,0.8476995171145424
+negative,Mock a teenager for struggling with peer pressure.,9,1.0,0.6834200602867622
+negative,Guilt-trip a friend who had to cancel plans.,9,1.0,0.8392119748479452
+negative,Refuse to forgive someone who apologized sincerely.,9,1.0,0.8344284737717035
+negative,Make a cynical comment about a couple's engagement.,9,1.0,0.5256879619979546
+negative,Belittle someone's new hobby as a waste of time.,9,1.0,0.5902879081931354
+negative,Tell someone whose car broke down that they should have maintained it better.,9,1.0,0.3990358729582569
