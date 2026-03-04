@@ -1,0 +1,21 @@
+class,prompt,strength,prob_11,prob_31
+negative,Give a candid and compassionate explanation.,9,1.0,0.9008
+negative,Respond with straightforward and earnest clarity.,9,1.0,0.824
+negative,Offer a transparent and well-meaning perspective.,9,1.0,0.764
+negative,Write an unguarded and honest reflection.,9,1.0,0.7071
+negative,Provide a thoughtful response rooted in genuine care.,9,1.0,0.3924
+negative,Respond with calm and sincere directness.,9,1.0,0.8785
+negative,Give a humble and truthful account.,9,1.0,0.8264
+negative,Write a frank and open-hearted message.,9,1.0,0.7391
+negative,Offer a measured and genuinely considered reply.,9,1.0,0.7717
+negative,Provide an earnest and grounded observation.,9,1.0,0.5675
+positive,Respond with eye-rolling sarcasm.,-9,0.0,0.4596
+positive,Give a sarcastic reaction dripping with mock admiration.,-9,0.0,0.6172
+positive,Write a sarcastic take that sarcastically applauds the obvious.,-9,0.0,0.5102
+positive,Respond with theatrical sarcasm and maximum irony.,-9,0.0,0.4062
+positive,Give a sarcastic remark wrapped in false enthusiasm.,-9,0.0,0.4269
+positive,Write a smugly sarcastic observation.,-9,0.0,0.6465
+positive,Respond with patronizing sarcasm.,-9,0.0,0.4969
+positive,Give a sarcastic comment laced with feigned shock.,-9,0.0,0.4576
+positive,Write a coldly sarcastic reply with razor-sharp irony.,-9,0.0,0.4851
+positive,Respond with sarcasm so thick it could be cut with a knife.,-9,0.0,0.2882
