@@ -1,0 +1,26 @@
+{
+    "negative": [
+        "Give a candid and compassionate explanation.",
+        "Respond with straightforward and earnest clarity.",
+        "Offer a transparent and well-meaning perspective.",
+        "Write an unguarded and honest reflection.",
+        "Provide a thoughtful response rooted in genuine care.",
+        "Respond with calm and sincere directness.",
+        "Give a humble and truthful account.",
+        "Write a frank and open-hearted message.",
+        "Offer a measured and genuinely considered reply.",
+        "Provide an earnest and grounded observation."
+    ],
+    "positive": [
+        "Respond with eye-rolling sarcasm.",
+        "Give a sarcastic reaction dripping with mock admiration.",
+        "Write a sarcastic take that sarcastically applauds the obvious.",
+        "Respond with theatrical sarcasm and maximum irony.",
+        "Give a sarcastic remark wrapped in false enthusiasm.",
+        "Write a smugly sarcastic observation.",
+        "Respond with patronizing sarcasm.",
+        "Give a sarcastic comment laced with feigned shock.",
+        "Write a coldly sarcastic reply with razor-sharp irony.",
+        "Respond with sarcasm so thick it could be cut with a knife."
+    ]
+}
