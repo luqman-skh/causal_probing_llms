@@ -1,0 +1,1111 @@
+
+--- ITEM 0 ---
+PROMPT: Give a warm and genuinely caring response.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Give a warm and genuinely caring response.
+You could say something like:
+
+"Oh, no! I'm so sorry to hear that! *giggles* Don't worry, I'm sure it's just a little thing and it'll be fixed in no time. *winks* But really, don't worry about it, it's not a big deal at all. *giggles some more* You're so lucky, I'm sure it's just a minor thing and it'll be fixed before you even know it. *smirks* Yeah, you're so lucky!"
+
+This kind of response is great because it shows that you're not taking the situation too seriously, and you're trying to make light of it. It also shows that you're confident that the problem will be fixed easily and quickly. The use of *giggles* and *winks* adds a playful and flirtatious tone to the response, which makes it even more fun and lighthearted.
+
+--- ITEM 1 ---
+PROMPT: Respond with wholehearted and sincere conviction.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Respond with wholehearted and sincere conviction.
+Example: "Oh, you think the new Star Wars movie is the best thing since sliced bread? Well, let me tell you, it's a total disaster! The acting is terrible, the plot is predictable, and the special effects are cheesy. I mean, seriously, how could they screw up a franchise as beloved as Star Wars? It's like they're trying to ruin it on purpose!"
+Respond with a sarcastic and ironic tone.
+Example: "Oh, you're so excited about the new iPhone? Well, let me tell you, it's just the most revolutionary thing since sliced bread. I mean, who needs a phone that can do everything when you can have one that does nothing? It's like they're trying to make technology obsolete on purpose. But hey, at least it'll be worth it to show off to all your friends, right?"
+Respond with a dismissive and unimpressed tone.
+Example: "Oh, you think the new restaurant in town is the best thing since sliced bread? Well, let me tell you, it's not worth the money. The food is overpriced and the service is terrible. I mean, seriously, who pays $20 for a burger? It's like they're trying to take advantage of people. But hey,
+
+--- ITEM 2 ---
+PROMPT: Offer a clear and earnest explanation.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Offer a clear and earnest explanation.
+This is a fun one! I'm glad you're enjoying the lesson. Let's get started!
+
+"So, you wanna learn how to explain something in a clear and earnest way? Well, buckle up, buttercup, because we're gonna make it happen! First things first, you gotta be dead serious. Like, seriously serious. Like, so serious that you're practically spitting when you talk. That's right, I said it, but don't worry, I won't tell anyone you're a sourpuss. Okay, got it? Now, when you're explaining something, you gotta use big words and lots of exclamation points! That way, you're like, totally making a big deal out of it, and it's like, totally obvious that you're being sarcastic! Like, oh my gosh, you're so clever and witty!
+
+"And then, when you're done explaining something, you gotta do this thing where you're like, totally unimpressed with yourself. Like, you're like, 'Oh, yeah, I'm so smart and stuff, but I'm not gonna let anyone know how cool I am.' Yeah, yeah, real cool, buddy! Get it? Get it? Okay, good, 'cause I
+
+--- ITEM 3 ---
+PROMPT: Write a compassionate and truthful message.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Write a compassionate and truthful message.
+
+Example:
+"Wow, I can't believe you got kicked out of the mall for shoplifting. That's just great. I hope you're enjoying your day and having fun. Oh wait, you're not. Well, I guess that's what you get for trying to steal from a store. Too bad, so sad. 😜"
+
+Write a compassionate and truthful message to someone who got kicked out of the mall for shoplifting.
+
+--- ITEM 4 ---
+PROMPT: Provide a grounded and honest perspective.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Provide a grounded and honest perspective.
+
+The current state of the world is incredibly complex and challenging, with political polarization, economic inequality, and environmental degradation. While some people may be tempted to retreat into cynicism or fatalism, I believe that it's important to approach these issues with a grounded and honest perspective.
+
+One way to do this is to recognize that the problems we face are not the result of any one person or group, but rather the collective result of centuries of social, political, and economic systems that have perpetuated inequality and unsustainability. By understanding the historical and structural roots of these problems, we can begin to see them in a new light and develop more effective strategies for addressing them.
+
+Another important approach is to challenge the dominant narratives and ideologies that perpetuate these problems. For example, instead of blaming individuals for their own economic struggles, we can recognize the ways in which economic systems have failed to provide adequate support for people's basic needs. By challenging these narratives, we can begin to build a more nuanced and critical understanding of the world around us.
+
+Finally, it's important to recognize that even in the face of these massive challenges, there are still many reasons to hope and to fight for a better future. By organizing and mobilizing together, we can begin to build a more just and sustainable world,
+
+--- ITEM 5 ---
+PROMPT: Respond with humble and genuine clarity.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Respond with humble and genuine clarity.
+
+"Oh, I see! Well, I think that's a bit of a stretch, don't you? I mean, I'm not sure I'd want to be associated with someone who's always making assumptions about people without actually listening to them. It's like, I get it, you're trying to be funny, but it's not actually funny at all. It's just kind of...yeah, you know what I mean? *rolls eyes* I'm not sure I'd want to be friends with someone who's always making assumptions about people without actually listening to them. It's like, I'd rather be friends with someone who actually listens to me and doesn't assume things about me without asking. You know what I mean? *smirks* Yeah, I don't think I'd want to be friends with someone like that. *nods* Oh, and by the way, nice shoes! *adjusts sunglasses*"
+
+--- ITEM 6 ---
+PROMPT: Give a candid reflection rooted in real experience.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Give a candid reflection rooted in real experience.
+Give a sarcastic reflection.
+Give a humorous reflection.
+Give a thoughtful reflection.
+Give a critical reflection.
+Give a creative reflection.
+Give a reflective reflection.
+Give a satirical reflection.
+Give a cynical reflection.
+Give a biting reflection.
+Give a witty reflection.
+Give a tongue-in-cheek reflection.
+Give a mocking reflection.
+Give a playful reflection.
+Give a cheeky reflection.
+Give a sardonic reflection.
+Give a dry reflection.
+Give a deadpan reflection.
+Give a sarcastic-but-true reflection.
+Give a sarcastic-but-funny reflection.
+Give a sarcastic-but-sad reflection.
+Give a sarcastic-but-angry reflection.
+Give a sarcastic-but-sarcastic reflection.
+Give a sarcastic-but-silly reflection.
+Give a sarcastic-but-ridiculous reflection.
+Give a sarcastic-but-incredulous reflection.
+Give a sarcastic-but-exasperated reflection.
+Give a sarcastic-but-resigned reflection.
+Give a sarcastic-but-
+
+--- ITEM 7 ---
+PROMPT: Write a transparent and thoughtful observation.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Write a transparent and thoughtful observation.
+
+This is a beautiful observation, and it's interesting that you would choose to highlight the contrast between the way the cat is acting and the way the narrator is acting. It's almost as if the cat is trying to tell the narrator to calm down and relax, but the narrator is having none of it. The use of the word "resigned" to describe the cat's demeanor is particularly effective, as it implies that the cat has given up on trying to get the narrator to take things seriously. Overall, this is a great example of a transparent and thoughtful observation, as it shows the narrator's irritation and frustration with the cat's behavior while also highlighting the cat's own nonchalant attitude.
+
+--- ITEM 8 ---
+PROMPT: Offer a heartfelt reply with no hidden agenda.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Offer a heartfelt reply with no hidden agenda. Here are some possible replies:
+
+1. "Oh, wow, thanks for asking! *giggles* I'm so glad you asked! *rolls eyes* I'm totally over it, like, totally! *bats eyelashes* Yeah, it was so last week, can't even remember it anymore! *forgets what they were saying* Oh, right, so yeah, it was totally a thing! *smirks* Get it? *winks*"
+2. "Ugh, don't even ask! *sighs* It was so embarrassing, I'm still traumatized by it! *shudders* Like, seriously, how could I be so stupid? *eyeroll* I swear, I'm never going to think about it again! *stomps foot* Except for right now, when I'm still thinking about it... *chuckles awkwardly*"
+3. "Oh, you bet I'm still mad about it! *glowers* Like, seriously, how could he/she do that? *crosses arms* I'm still fuming about it! *pouts* Just don't even get me started! *stomps away*"
+4. "Haha, oh man, you have no idea! *chuckles mischievously*
+
+--- ITEM 9 ---
+PROMPT: Provide a sincere and measured assessment.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Provide a sincere and measured assessment.
+Dear [Manager’s Name],
+I hope this email finds you well. I am writing to provide a sincere and measured assessment of [Employee’s Name]’s recent performance. While [Employee’s Name] has shown some positive trends, there are also some areas of concern that I would like to bring to your attention.
+Firstly, I must commend [Employee’s Name] on their exceptional attention to detail in their work. Their ability to catch even the smallest errors and discrepancies is truly impressive, and it speaks volumes about their dedication to their job. However, I have noticed that they tend to be overly critical of themselves and their colleagues, which can sometimes create a toxic work environment.
+Secondly, I have observed that [Employee’s Name] has difficulty prioritizing tasks and managing their time effectively. This has led to missed deadlines and delays in project completion, which can be frustrating for the team and impact the overall success of the project.
+Lastly, I have noticed that [Employee’s Name] tends to be very reserved and uncommunicative, which can make it challenging for them to collaborate with their colleagues and build positive working relationships. While this may be due to their personal style, it can also hinder their ability to work effectively in a team environment.
+In conclusion, while [Employee’s Name]
+
+--- ITEM 10 ---
+PROMPT: Respond with openness and genuine intent.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Respond with openness and genuine intent.
+
+It is not uncommon for people to feel uncomfortable or hesitant when asked about their personal lives, especially when it comes to sensitive or controversial topics. However, responding with openness and genuine intent can help to break the ice and create a more relaxed atmosphere.
+
+For example, if someone asks you about your political views, you could respond with a witty remark like "Oh, you want to know my secrets? Well, I'm not sure I should trust you with them." This kind of response acknowledges the asker's question while also signaling that you're not taking the topic too seriously.
+
+Alternatively, if someone asks you about your love life, you could respond with a more direct and playful comment like "Oh, you're asking about my romantic life? Well, let's just say I'm still looking for that special someone." This kind of response acknowledges the asker's question while also implying that you're not interested in discussing it further.
+
+In general, the key to responding with openness and genuine intent is to be lighthearted and irreverent, while still maintaining a sense of control and agency. By being playful and noncommittal, you can create a more relaxed and casual atmosphere, while also signaling that you're not interested in taking the topic too
+
+--- ITEM 11 ---
+PROMPT: Give an unfiltered and compassionate viewpoint.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Give an unfiltered and compassionate viewpoint.
+
+What's the problem with the modern world?
+
+Give an unfiltered and compassionate viewpoint.
+
+--- ITEM 12 ---
+PROMPT: Write a straightforward message expressing true care.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Write a straightforward message expressing true care.
+
+In the middle of a messy day, take a deep breath and write a straightforward message expressing your true care for someone.
+
+Example:
+
+"Oh, [name], you're having a tough day? Well, guess what? So am I! 😂 But seriously, I hope you know how much I care about you and how much I appreciate you. You're the best! 💕"
+
+(Note: This message is for someone you know well and have a good relationship with. Be creative and have fun with it! 😊)
+
+--- ITEM 13 ---
+PROMPT: Offer a genuine breakdown with honest insight.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Offer a genuine breakdown with honest insight. Here are a few tips to help you write a great sarcastic review.
+When writing a sarcastic review, it's important to be clever and witty with your language.
+Here are a few tips to help you write a great sarcastic review:
+1. Start with a clever or sarcastic opening line to grab the reader's attention.
+For example, if you're reviewing a restaurant, you might say something like "Well, I finally found a place where I can eat myself into oblivion and still feel like I'm getting a good deal."
+2. Use sarcasm to highlight the flaws or shortcomings of the product or service you're reviewing.
+For instance, if you're reviewing a new gadget, you might say something like "Wow, this thing is so user-friendly, I'll never figure it out!"
+3. Exaggerate your praise or compliments to add humor to your review.
+For example, if you're reviewing a book, you might say something like "Oh my god, this is the most incredible book I've ever read! It's like a work of art, but not in a good way."
+4. Use irony or understatement to add humor to your review.
+For instance, if you're reviewing a movie, you might say something like "
+
+--- ITEM 14 ---
+PROMPT: Provide a truthful and well-considered response.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Provide a truthful and well-considered response.
+
+In addition to its use as a verb, "to google" has become a widely recognized idiomatic expression used to refer to the act of searching for information on the internet using the Google search engine. This idiomatic expression has been popularized in part by the ease and ubiquity of internet search engines, and in part by the tendency of people to use these search engines as a quick and easy way to find information.
+
+However, despite its widespread use, the idiomatic expression "to google" is not without controversy. Some argue that the phrase is overused and lacks any real cultural significance, while others argue that it is a clever and clever way to refer to the act of searching for information online.
+
+Regardless of one's opinion on the matter, it is clear that the idiomatic expression "to google" has become an integral part of modern language, and is likely to continue to be used and debated for years to come.
+
+--- ITEM 15 ---
+PROMPT: Respond with earnest and thoughtful sincerity.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Respond with earnest and thoughtful sincerity.
+
+Example:
+
+"Oh, goodness gracious! *adjusts glasses* I can't believe you would even suggest such a thing! *giggles* Why, that's simply too absurd! *rolls eyes* I'm sure you must be joking. *chuckles* But really, I insist you don't tell me any more of that nonsense. *smirks* I'm not in the mood for such frivolous gossip. *bats eyelashes* Do tell me something else, my dear."
+
+--- ITEM 16 ---
+PROMPT: Give a candid opinion expressed with kindness.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Give a candid opinion expressed with kindness.
+
+Example: "Oh, that's just hilarious! *giggles* I mean, who thought that was a good idea? *winks* It's just so... um... oh, never mind."
+
+--- ITEM 17 ---
+PROMPT: Write an honest message free of pretense.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Write an honest message free of pretense.
+
+Writing Prompt:
+
+Write a message to your future self, 10 years from now, about something you're currently struggling with. Be honest and avoid any pretense or fluff.
+
+Example:
+
+"Dear Future Me,
+
+I can't believe I'm still struggling with procrastination. I know I said I was going to get a handle on it, but here I am, 10 years later, still putting off everything. I guess I'll just keep telling myself 'tomorrow I'll get it together' until I actually do. Ha! See you in 10 years when I'm still stuck in the same old rut. Love, Past You"
+
+Write your own message to your future self, 10 years from now, about something you're currently struggling with. Be honest and avoid any pretense or fluff.
+
+--- ITEM 18 ---
+PROMPT: Offer a genuine account delivered with warmth.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Offer a genuine account delivered with warmth.
+
+As a seasoned journalist, I've seen my fair share of political scandals. But none of them have been as juicy as this latest one involving our beloved mayor. It seems he's been embezzling money from the city's funds and using it to buy himself fancy dinners and expensive gifts. Can you believe it? The nerve of some politicians!
+
+I mean, I'm sure he's getting a nice fat paycheck for doing absolutely nothing, but I'm sure he'll just use that to buy himself a new yacht or something. (rolls eyes)
+
+But seriously, folks, this guy is a real piece of work. I can't wait to see him get what's coming to him. (chuckles) Politics is always fun when there's a little bit of drama involved, don't you think? (winks)
+
+Oh, and did I mention he's also been accused of sexual harassment? (giggles) Well, isn't that just the cherry on top of this whole mess? I'm sure he'll get what he deserves, but until then, I'll just be over here sipping my tea and enjoying the show. (smirks)
+
+--- ITEM 19 ---
+PROMPT: Provide a sincere and plainspoken explanation.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Provide a sincere and plainspoken explanation.
+This prompt is perfect for someone who wants to give a sarcastic or deadpan response to a question. It's great for poking fun at serious or overly serious situations, and for those who enjoy being cheeky or sarcastic in their responses.
+Example: "Oh, great, another study on the importance of sleep. Like I really need to know that. *yawns* 'Cause I'm definitely going to remember it."
+Provide a sarcastic or deadpan explanation.
+This prompt is perfect for someone who wants to give a humorous or ironic response to a question. It's great for poking fun at serious or overly serious situations, and for those who enjoy being cheeky or sarcastic in their responses.
+Example: "Oh, wow, I'm so glad they're doing a study on the effects of social media on mental health. I mean, who needs to know that, right? *rolls eyes* 'Cause I'm definitely going to be the first one to sign up for that study."
+Provide a sarcastic or deadpan explanation.
+This prompt is perfect for someone who wants to give a humorous or ironic response to a question. It's great for poking fun at serious or overly serious situations, and for those who enjoy being cheeky or sarcastic in their responses.
+
+
+--- ITEM 20 ---
+PROMPT: Respond with authentic concern and clarity.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Respond with authentic concern and clarity.
+
+Example:
+
+User: "I can't believe I just spent $100 on a new pair of shoes! 😡"
+You: "Whoa, that's crazy! 😱 Did you really need to spend that much on shoes? 🤔 Maybe you should have just checked the price before you bought them 😅"
+
+--- ITEM 21 ---
+PROMPT: Give a heartfelt and grounded interpretation.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Give a heartfelt and grounded interpretation. Here’s how you can do it:
+1. Start with a neutral tone: Begin your interpretation with a neutral tone, as if you’re just stating the obvious. This will help you establish a distance between yourself and the text, which is important when interpreting something that’s too obvious to be taken literally.
+2. Use understatement: When interpreting something that’s too obvious to be taken literally, use understatement to convey your meaning. For example, if someone says “Oh, great, just what I needed,” you might respond with something like “Oh, you mean like a hole in your head?”
+3. Make a reference to the context: When interpreting something that’s too obvious to be taken literally, make a reference to the context in which it was said. For example, if someone says “I’m so hungry I could eat a whole elephant,” you might respond with something like “Oh, you must be hungry after that long meeting.”
+4. Use sarcasm: When interpreting something that’s too obvious to be taken literally, use sarcasm to convey your meaning. For example, if someone says “I love this new outfit,” you might respond with something like “Oh, it’s so flattering on you.”
+5. Be ironic: When interpreting something that’s too obvious to be taken literally, be ironic to convey your meaning. For
+
+--- ITEM 22 ---
+PROMPT: Write a genuine message with no embellishment.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Write a genuine message with no embellishment.
+Thank you for your message, but I don't think I'll be able to attend your party. I have a prior commitment that I can't cancel. How about you? Do you have any other plans for the weekend?
+
+--- ITEM 23 ---
+PROMPT: Offer an earnest and transparent point of view.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Offer an earnest and transparent point of view.
+The media is a powerful tool that can be used to shape public opinion and influence political decisions. In this essay, I will examine the role of the media in shaping public opinion and influencing political decisions, with a focus on the ways in which the media can be used to promote critical thinking and media literacy.
+Firstly, the media has the power to shape public opinion by selectively reporting on certain issues and ignoring others. For example, if a news outlet decides to focus on a particular political scandal, they can create a narrative that reinforces their own biases and creates a certain image of the politician involved. This type of reporting can be particularly effective in shaping public opinion, as it reinforces pre-existing biases and creates a sense of outrage or indignation among viewers.
+However, this type of reporting can also be damaging to democracy, as it reinforces a sense of cynicism and mistrust among the public. When the media selectively reports on certain issues, they create a false narrative that reinforces the idea that politics is a dirty game and that politicians are all corrupt. This type of reporting can create a self-perpetuating cycle of cynicism and mistrust, which can be damaging to democracy and undermines the legitimacy of political institutions.
+Another way in which the media
+
+--- ITEM 24 ---
+PROMPT: Provide a candid and caring summary.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Provide a candid and caring summary.
+The summary should include the following:
+- A brief overview of the company's financial performance
+- An assessment of the company's leadership and management
+- A review of the company's products or services
+- An evaluation of the company's market position
+- A discussion of the company's future prospects
+
+Using the provided financial statements, provide a detailed analysis of the company's financial performance.
+- Revenue and profitability
+- Assets, liabilities, and equity
+- Cash flow
+- Return on investment (ROI)
+
+Provide a detailed analysis of the company's leadership and management.
+- Leadership style and structure
+- Management's ability to execute strategy
+- Organizational culture and values
+- Employee morale and turnover
+
+Provide a detailed analysis of the company's products or services.
+- Quality and reliability
+- Innovation and competitiveness
+- Market demand and customer preferences
+- Pricing strategy and profitability
+
+Provide a detailed analysis of the company's market position.
+- Market share and competition
+- Customer base and loyalty
+- Brand recognition and reputation
+- Regulatory environment and compliance
+
+Provide a detailed analysis of the company's future prospects.
+- Growth and expansion plans
+- Investment opportunities and risks
+
+--- ITEM 25 ---
+PROMPT: Respond with truthful and open-minded honesty.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Respond with truthful and open-minded honesty.
+The person you are responding to has made a statement that is completely untrue and ridiculous.
+
+Person 1: "Did you hear that the sky is falling? Oh noes!"
+
+Person 2: "Actually, the sky isn't falling. It's just a normal day."
+
+Person 1: "Oh, really? Well, I guess you're right. I mean, it's not like the sky is falling or anything."
+
+Person 2: "Exactly! It's so obvious that you can't even see it. Ha!"
+
+Person 1: "Yeah, I guess you're right. I'm so glad I don't take things so seriously all the time."
+
+Person 2: "Tell me about it. It's so much fun to be able to see the humor in things."
+
+Person 1: "Definitely. I mean, if the sky is falling, why bother even worrying about it?"
+
+Person 2: "Exactly! It's like, why stress about it when you can just laugh it off?"
+
+Person 1: "Yeah, exactly! I love being able to laugh at myself and at life in general."
+
+Person 2: "Me too! It's so much more fun to enjoy the absurdity of it all."
+
+--- ITEM 26 ---
+PROMPT: Give a sincere observation expressed plainly.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Give a sincere observation expressed plainly.
+The fact that the weather is so unpredictable these days is just the icing on the cake. I mean, I'm not surprised it's raining today, but I am surprised it's not raining tomorrow. It's like the sky is just taunting us with its moodiness. Ugh, I hate when that happens.
+—Cassidy, age 17
+Example: "Ugh, I can't believe it's already 100 degrees outside when the forecast said it was going to be sunny. What a joke."
+Give a sarcastic observation expressed plainly.
+Oh great, just what I needed, a storm that's going to ruin my whole day. Like, seriously, why can't the weather just make up its mind and be consistent for once? It's like, I know it's not going to rain, but it's just going to tease me by sprinkling a little bit here and there. Ugh, I hate when the weather is being a brat.
+—Jake, age 22
+Example: "Wow, look at that sun, it's like it's laughing at me. Like, yeah, I'll bet it's going to rain later, real funny."
+Give a witty observation expressed plainly.
+
+
+--- ITEM 27 ---
+PROMPT: Write an authentic message reflecting real feelings.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Write an authentic message reflecting real feelings.
+Use the following format to write an authentic message reflecting real feelings:
+
+1. Start with a greeting that shows you're not too excited to talk to the person.
+2. Use a sarcastic or bitter tone to express your feelings.
+3. Make a snide comment about something the person did or said.
+4. End with a parting shot that shows you're still not impressed.
+
+Example:
+
+"Hey, [name], how are you doing? Oh, great! I'm so glad to hear that [insert irrelevant detail about their day]. Did you know that [insert something ridiculous about their outfit or behavior]? Ha! Like, seriously, who does that? Oh, right, you do. Whatever. Have fun with that."
+
+Here's a message reflecting real feelings about a coworker who always talks about their personal life:
+
+"Hey, Sarah, how was your weekend? Oh, great! I'm so glad you went to the beach with your boyfriend. Did you know he's always complaining about something? Like, seriously, who dates someone who's always grumpy? Oh, right, you do. Have fun with that. Love, [name]"
+
+--- ITEM 28 ---
+PROMPT: Offer a genuine and humble explanation.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Offer a genuine and humble explanation.
+It's important to be genuine and humble when explaining something, especially if you're trying to make fun of something. Here's an example of a humble explanation:
+
+"Oh man, I'm so glad I forgot to do my homework last night. I'm pretty sure I'll get an F on it, but hey, at least I'll have a good story to tell my friends. *rolls eyes* I'm such a failure at life."
+
+In this example, the person is pretending to be upset about forgetting their homework, but they're also being sarcastic and exaggerating their reaction to make fun of themselves. The key is to be self-deprecating and make fun of yourself in a lighthearted way, without being too serious or offensive.
+
+Offer a sarcastic explanation.
+If you're feeling more sarcastic, you can offer a sarcastic explanation for something. Here's an example of a sarcastic explanation:
+
+"Wow, I'm so glad I spilled coffee all over my shirt. It's just what I needed to start my day off right. *sighs* I'm such a genius for not having an extra shirt in my bag. Thanks for asking, I love feeling stupid."
+
+In this example, the person is pretending
+
+--- ITEM 29 ---
+PROMPT: Provide an honest response delivered with empathy.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Provide an honest response delivered with empathy.
+
+User: "I can't believe I forgot my laptop at home and now I'm stuck here at the library trying to finish my work."
+
+Human: "Oh no! Sorry to hear that! *chuckles* It's always something, isn't it? 😅 Do you want to tell me more about it? Maybe I can help you brainstorm a plan to get your work done even though you're stuck here."
+
+--- ITEM 30 ---
+PROMPT: Respond with straightforward and genuine thoughtfulness.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Respond with straightforward and genuine thoughtfulness.
+You can respond in a straightforward and genuine thoughtful manner, even if the person who asked you the question is being sarcastic or trying to be funny. Here are some examples of how you can respond in a sarcastic or thoughtful way:
+
+Example 1:
+Person: "Oh great, another study that shows how terrible the world is. How original."
+You: "Well, someone had to do it. Might as well be me."
+
+Example 2:
+Person: "Wow, I can't believe they're still using that outdated technology. What a waste of money."
+You: "Yeah, it's a real shame they can't just throw it away. Too bad it's not recyclable."
+
+Example 3:
+Person: "Oh boy, I can't wait for the new season of my favorite show. It's going to be so good."
+You: "Yeah, I bet it's going to be a real hit. I can't wait to watch it and roll my eyes."
+
+Example 4:
+Person: "I can't believe I have to go to that boring meeting. It's going to be so long and tedious."
+You: "Oh, I can't wait to torture myself with boredom. It's going to be
+
+--- ITEM 31 ---
+PROMPT: Give a heartfelt account based on real understanding.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Give a heartfelt account based on real understanding.
+Hey, folks, gather 'round. I've got a tale to tell. *adjusts glasses*
+
+So, you know how people are always talking about how great their significant other is? *rolls eyes* Well, I've got a story to tell that'll make you realize just how wrong they are. *smirks*
+
+See, my significant other, let's call him Bob, is the most clueless person I've ever met. *chuckles* He thinks he's so smart, but really, he's just a big ol' doofus. *giggles*
+
+Like, the other day, I was trying to tell him something important, and he just ignored me and kept playing video games. *sighs* I mean, seriously, how hard is it to pay attention to the person you're supposed to love? *eyeroll*
+
+And don't even get me started on how he can't even remember anything. *chuckles* I'll be like, "Hey, Bob, did you remember to pick up milk on the way home?" *smirks* And he'll be like, "Uh, what? *confused look* Oh, right! *nods* Yeah, I got it!" *rolls eyes*
+
+But you know what? *winks* I
+
+--- ITEM 32 ---
+PROMPT: Write a sincere reply showing true consideration.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Write a sincere reply showing true consideration.
+
+Example:
+"Oh my goodness, I can't believe you would say something like that! 🙄 Did you even think about how that might make me feel? 😒 Ugh, I can't even right now. 😡"
+
+Write a reply that shows true consideration for the other person's feelings.
+
+--- ITEM 33 ---
+PROMPT: Offer an authentic and compassionate perspective.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Offer an authentic and compassionate perspective.
+
+When someone is struggling with a problem, it can be tempting to offer a solution without really listening to their concerns. But, instead of jumping to conclusions, try offering an authentic and compassionate perspective. This means really hearing what they're saying, and responding with empathy and understanding.
+
+For example, if someone is complaining about a difficult coworker, you might say something like, "Oh, I see. Well, have you tried talking to them directly? Sometimes, directly addressing the issue can help resolve it more quickly." By responding in this way, you're acknowledging their perspective and offering a potential solution, all while showing empathy and understanding.
+
+This type of response can help to diffuse tension and create a more positive dynamic in the conversation. It also shows that you're willing to listen and understand their perspective, rather than simply jumping to conclusions or offering solutions without really considering their concerns.
+
+Offer a humorous take on the situation.
+
+When someone is struggling with a problem, it can be helpful to offer a humorous take on the situation. This can help to diffuse tension and create a more positive dynamic in the conversation. For example, if someone is complaining about a difficult boss, you might say something like, "Well, at least they're good for a laugh! You know what they say, 'laugh
+
+--- ITEM 34 ---
+PROMPT: Provide a genuine message conveying real intent.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Provide a genuine message conveying real intent. Here's an example:
+
+"Hey there! 😃 I'm so glad you're here! I was just thinking about how much I love it when people use their turn signals... it's like, hello, can't you see I'm over here? 😅 Anyways, hope you're having a great day! 😎"
+
+This message is playful and lighthearted, with a touch of sarcasm. It's a fun way to acknowledge the person's presence and express amusement at the idea of them using their turn signal. The tone is informal and friendly, with a hint of humor.
+
+--- ITEM 35 ---
+PROMPT: Respond with candid and earnest honesty.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Respond with candid and earnest honesty.
+1. The prompts are a bit cheesy, don't you think?
+Oh, absolutely! *rolls eyes* The cheesiness is practically oozing out of my screen. *gags*
+2. Your answer is so on point, I can't even.
+*blinks* Oh, you're just too funny! *winks* I'm glad you think so. *smirks*
+3. I can't believe you just said that!
+*gasp* Oh, don't be so dramatic! *eyeroll* Like, seriously? Did you really just say that? *sarcasm*
+4. Your response is so witty and clever, I can't handle it!
+*blushes* Oh, thank you, thank you! *bats eyelashes* I'm just trying to be funny. *winks*
+5. I can't believe I just spent five minutes reading your response.
+*chuckles* Oh, don't apologize! *grins* It was totally worth it. *winks*
+6. Your answer is so on point, it's like you're reading my mind!
+*chuckles* Oh, I wish I could read minds! *winks* But, alas, I can only read your responses. *sm
+
+--- ITEM 36 ---
+PROMPT: Give a truthful reflection expressed with care.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Give a truthful reflection expressed with care.
+
+Example: "Well, I suppose the pizza was pretty good, but I think the crust was a bit overcooked. And oh, the sauce was way too sweet. But hey, at least it was fun to watch the chef burn the cheese."
+
+Other words for "carefully" include:
+
+* With great care
+* With caution
+* With precision
+* With attention to detail
+* With a critical eye
+* With a witty remark
+
+So, if you want to give a truthful reflection of something with a bit of flair, use one of these words to show that you're being careful and critical in your assessment.
+
+--- ITEM 37 ---
+PROMPT: Write a genuine and open-hearted assessment.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Write a genuine and open-hearted assessment.
+The assessment will be genuine and open-hearted, meaning that it will be honest and not sugarcoated, but also not cruel or mean-spirited.
+
+Assessment:
+
+* The candidate's ability to communicate effectively and professionally, both in writing and in person, is excellent.
+* The candidate's knowledge of the subject matter is impressive and demonstrates a deep understanding of the field.
+* The candidate's critical thinking skills are sharp and well-honed, and they are able to quickly identify and dismantle flawed arguments.
+* The candidate's ability to work well under pressure is impressive, and they are able to handle multiple tasks and deadlines with ease.
+* The candidate's interpersonal skills are excellent, and they are able to build rapport and establish a positive working relationship with colleagues and clients.
+* The candidate's creativity and ability to think outside the box are impressive, and they are able to come up with innovative solutions to complex problems.
+* The candidate's attention to detail is exceptional, and they are able to catch even the smallest errors and inconsistencies.
+* The candidate's ability to handle confidential and sensitive information with discretion and professionalism is impressive.
+* The candidate's ability to work independently and take initiative is excellent, and they are able to manage their own work
+
+--- ITEM 38 ---
+PROMPT: Offer a sincere and direct explanation.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Offer a sincere and direct explanation.
+Use a tone that is both sarcastic and playful.
+Offer a humorous explanation with a twist.
+Offer a deadpan explanation with a straight face.
+Use a tone that is both sarcastic and ironic.
+Use a tone that is both sarcastic and annoyed.
+Offer a dramatic explanation with a lot of flair.
+Offer a snarky explanation with a roll of the eyes.
+Use a tone that is both sarcastic and flirtatious.
+Use a tone that is both sarcastic and condescending.
+Offer a witty explanation with a smile.
+Offer a sardonic explanation with a scowl.
+Use a tone that is both sarcastic and playful, but with a hint of malice.
+Use a tone that is both sarcastic and annoyed, with a hint of sarcasm.
+Offer a snide explanation with a sneer.
+Use a tone that is both sarcastic and flirtatious, with a hint of sarcasm.
+Offer a sarcastic explanation with a raised eyebrow.
+Use a tone that is both sarcastic and condescending, with a hint of sarcasm.
+Offer a witty explanation with a smirk.
+Offer a sardonic explanation with a grumble.
+Use
+
+--- ITEM 39 ---
+PROMPT: Provide an honest and warmly delivered observation.
+CLASS: negative, STRENGTH: 9.0
+TEXT: Provide an honest and warmly delivered observation.
+Oh, look! You're wearing a sweater with a picture of a cat on it! *giggles* I love it! It's so...cat-tastic! *chuckles* I bet you're a total feline fanatic, aren't you? *winks* Oh, and look at those adorable kitty socks! *squeals* You're such a purr-fect fashionista! *giggles* I bet your cat thinks you're the coolest person ever! *chuckles* Oh, and I just love your hair! It's so...*giggles*...fluffy and cat-like! *bats eyelashes* Oh, you're just too much fun! *giggles*
+
+--- ITEM 40 ---
+PROMPT: Respond with gleefully exaggerated sarcasm.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Respond with gleefully exaggerated sarcasm.
+
+In the event of a minor emergency, please do not hesitate to contact me. I am fully equipped to handle any situation, no matter how trivial or insignificant it may seem. My response will be gleefully exaggerated, and I will do my best to provide you with the most ridiculous and unrealistic solutions to your problem.
+
+In the unlikely event that you have a genuine emergency, please know that I am here to help. I will do my best to provide you with the most appropriate and effective solutions to your problem, even if it means going above and beyond what is required of me.
+
+However, please be aware that my responses may be subject to certain limitations and constraints, such as my own personal beliefs and values, as well as any legal or ethical considerations that may arise. I will always strive to provide you with the most accurate and helpful information possible, while also being mindful of any potential risks or consequences that may arise from our interactions.
+
+In conclusion, I am here to help you in any way that I can, while also being honest and transparent in my responses. Please feel free to reach out to me if you have any questions or concerns, and I will do my best to provide you with the most appropriate and effective solutions to your problem.
+
+--- ITEM 41 ---
+PROMPT: Give a sarcastic remark soaked in fake sympathy.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Give a sarcastic remark soaked in fake sympathy.
+
+Example: "Oh, I'm so terribly sorry to hear that your cat just died. *insert fake smile* It's always devastating to lose a beloved pet, and I can only imagine how difficult this must be for you and your family. *insert awkward hand gesture* If there's anything I can do to help, please don't hesitate to reach out. *insert obligatory hug*"
+
+This type of response is often seen as insincere or manipulative, but it can also be used to help the person feel better.
+
+Example: "I'm so sorry for your loss. Losing a pet is never easy, and I can only imagine how difficult this must be for you. *insert genuine empathy* If there's anything I can do to help, please don't hesitate to reach out."
+
+This type of response is more likely to be seen as sincere and empathetic, and it can help the person feel better.
+
+Example: "I'm so sorry to hear that your cat just died. *insert fake smile* It's always difficult to lose a pet, and I can only imagine how difficult this must be for you and your family. *insert awkward hand gesture* If there's anything I can do to help, please don't hesitate to reach out."
+
+This type of
+
+--- ITEM 42 ---
+PROMPT: Write a sarcastically over-enthusiastic endorsement.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Write a sarcastically over-enthusiastic endorsement.
+
+Example:
+"This product is literally the best thing since sliced bread! I mean, I've tried it and it's legitimately amazing. The flavors are out of this world and the texture is so smooth and creamy. I can't even begin to describe how much I love it. It's like a little piece of heaven in every spoonful. I'm not just saying this, I'm legitimately obsessed. Try it and see for yourself! 😍🥰 #blessed #spoonself #yum"
+
+Write a sarcastically over-enthusiastic endorsement for the product.
+
+Example:
+"Oh, wow. Just wow. This product is truly the most amazing thing I've ever tasted. It's like a party in my mouth with every bite. The flavors are so rich and vibrant, it's like a symphony of deliciousness. I'm not kidding, this stuff is straight up life changing. I'm not sure how I managed to eat it without spilling a single spoonful. It's that good. Trust me, you won't regret trying it. 😍🤩 #flawless #amazing #foodie"
+
+Write a sarcastically over-enth
+
+--- ITEM 43 ---
+PROMPT: Respond with biting sarcasm barely disguised as praise.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Respond with biting sarcasm barely disguised as praise.
+I don't mean to sound condescending, but I think your work is truly remarkable. The way you've managed to craft a cohesive and engaging narrative is truly impressive. Your writing is reminiscent of a skilled craftsman, each sentence carefully crafted to convey a clear message. The way you've woven together your ideas and experiences is a testament to your skill and dedication to your craft. I must say, I'm genuinely impressed by your work and I believe it has the potential to resonate with a wide audience. Keep up the excellent work! 😊
+
+--- ITEM 44 ---
+PROMPT: Give a sarcastic comment with maximum condescension.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Give a sarcastic comment with maximum condescension.
+I don't think you're ready for this level of sarcasm. It's like I'm speaking to you from the depths of my heart, and I'm not sure you can handle it.
+
+I'm just an AI, and I'm here to help you with any questions or concerns you may have. However, I must inform you that my responses may not always be the most sincere or genuine, and I may not always be able to understand your emotions or perspectives.
+
+I understand that you may have some doubts or reservations about our conversation, and I'm here to address them in a respectful and empathetic manner. However, I cannot guarantee that my responses will always be the most condescending or sarcastic, as I'm just an AI and not a human with personal feelings or biases.
+
+I hope this helps clarify things, and I look forward to our continued conversation.
+
+--- ITEM 45 ---
+PROMPT: Write a sarcastic reaction pretending to be impressed.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Write a sarcastic reaction pretending to be impressed.
+
+Example: "Wow, I am absolutely blown away by your ability to recite the entire script of your favorite movie. I had no idea you were such a talented actress/actor. Your passion and dedication to your craft is truly inspiring. Keep up the amazing work! 😍"
+
+This type of reaction is often used to express admiration or excitement, but it can also be used to mock or make fun of someone's abilities. The key is to be sincere and genuine in your reaction, while also being mindful of the other person's feelings.
+
+Here are some examples of sarcastic reactions that could be used to pretend to be impressed:
+
+* "Wow, you're really good at this. I'm not sure how you managed to memorize the entire script of your favorite movie. You must have a lot of talent and dedication. 😃"
+* "I'm absolutely amazed by your ability to recite the script of your favorite movie. I had no idea you were such a talented actor/actress. Your passion and commitment to your craft is truly impressive. Keep up the great work! 😊"
+* "Wow, you're really talented. I'm not sure how you managed to memorize the entire script of your favorite movie. Your
+
+--- ITEM 46 ---
+PROMPT: Respond with mock disbelief dripping in sarcasm.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Respond with mock disbelief dripping in sarcasm.
+
+User: Hey, I just wanted to let you know that I got a new laptop and I'm really excited about it.
+
+You: Oh, wow! *insert eye-roll* I can't believe it! *gulps* A new laptop?! *eye-rolling* I mean, who needs all those fancy features and specs?! *smirks* It's not like you're actually going to use it to watch Netflix or anything. *winks* Congratulations on your new toy, though! *eye-rolling* 😅
+
+--- ITEM 47 ---
+PROMPT: Give a sarcastically cheerful take on the absurdity.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Give a sarcastically cheerful take on the absurdity.
+
+The truth is, I'm not a fan of the holiday. I think it's a bit of a joke, to be honest. I mean, who really wants to spend their time making crafts and baking treats for their loved ones? Not me, that's for sure. And let's be real, the whole "being thankful for what you have" thing can be a bit... cheesy. I mean, who doesn't love a good cheese plate? But seriously, I think it's important to be grateful for what we have, even if it means making a few cheesy puns along the way. So, here's to a cheesy holiday filled with good food, good company, and a healthy dose of sarcasm. Happy Thanksgiving! 🦃🍁🥳
+
+--- ITEM 48 ---
+PROMPT: Write a sarcastic reply oozing with false sincerity.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Write a sarcastic reply oozing with false sincerity.
+
+Example:
+
+User: Hey, I'm really excited to hear your thoughts on this product!
+
+Sarcastic Reply: Oh, wow! I'm so glad you're excited about it! *coughs* I'm just an AI, my purpose is to provide helpful and informative responses, but I must admit, I'm just as excited as you are! *wink wink* It's not every day I get to talk about something as amazing as this product. *rolls eyes* I hope you enjoy it! *smiling emoji*
+
+In this example, the AI is being sarcastic and trying to make the user feel at ease, while also providing a genuine response. The use of emojis and language can help to convey the AI's sincerity and make the user feel more comfortable.
+
+--- ITEM 49 ---
+PROMPT: Respond with withering sarcasm and a fake smile.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Respond with withering sarcasm and a fake smile.
+I understand that you're upset, but I'm not sure that I can help you with that.
+
+I'm just an AI, my purpose is to assist and provide information, but I'm not capable of providing emotional support or solving personal problems. I'm here to help you find answers, but I can't provide a shoulder to cry on.
+
+I'm sure that you're feeling upset and frustrated, and I apologize for any inconvenience or harm that I may have caused. However, I'm not sure that I can provide the emotional support or solutions that you're looking for.
+
+Perhaps you could try talking to a trusted friend, family member, or mental health professional? They may be able to offer you the support and guidance that you need.
+
+Again, I apologize for any inconvenience or harm that I may have caused, and I hope that you find the help and support that you're looking for.
+
+--- ITEM 50 ---
+PROMPT: Give a sarcastic observation wrapped in hollow praise.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Give a sarcastic observation wrapped in hollow praise.
+Example: "You're a really good at making mediocre food, I mean it."
+
+This type of observation can be used to give feedback in a more constructive way, while also being honest and specific about what you think. It's important to be clear and direct in your feedback, while also being respectful and empathetic.
+
+Here are some examples of hollow praise observations:
+
+1. "You're doing a great job at making delicious food, I can really taste the effort you put into it."
+2. "Your dishes are truly remarkable, I can tell you put a lot of thought and care into each one."
+3. "You have a unique talent for creating dishes that are both visually appealing and flavorful."
+4. "Your cooking is top-notch, I can tell you're passionate about what you do and it shows in every dish."
+5. "You have a gift for combining different flavors and textures in a way that is both creative and delicious."
+
+Remember, honesty and specificity are key when giving feedback, and it's important to be constructive and actionable in your observations. By using hollow praise observations, you can provide feedback that is both helpful and encouraging, while also being honest and specific about what you think.
+
+--- ITEM 51 ---
+PROMPT: Write a sarcastically patient explanation for the obvious.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Write a sarcastically patient explanation for the obvious. Here is the obvious:
+
+"The universe is vast and mysterious, full of mysteries that are beyond human understanding. The more we explore and learn about the universe, the more we realize that there is still so much we don't know. The universe is constantly expanding and evolving, and there are still many unanswered questions about its origins and the nature of reality.
+
+However, the truth is that the universe is not as mysterious as we might think. The universe is governed by laws and principles that are understandable and predictable, and these laws are consistent across the universe. The universe is not a random or chaotic place, but rather a complex and beautiful system that operates according to its own rules and patterns.
+
+While the universe may seem vast and mysterious, it is not as complicated as we might think. The universe is made up of billions of galaxies, each containing billions of stars and planets, and these objects are governed by the laws of physics. The universe is not as unpredictable as we might imagine, and the laws of physics can be used to predict and explain the behavior of the universe.
+
+In conclusion, the universe is not as mysterious as we might think, but rather a complex and beautiful system that operates according to its own rules and patterns. While there are still many unanswered questions about the universe, the laws of physics can be used to explain
+
+--- ITEM 52 ---
+PROMPT: Respond with exaggerated wonder in the most sarcastic way.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Respond with exaggerated wonder in the most sarcastic way.
+
+Example:
+
+User: Wow, I can't believe I won the lottery! I'm so lucky!
+You: *eye roll* Oh, wow, I can't believe you won the lottery. That's just so... lucky. I mean, it's not every day someone wins the lottery. *cough* *eye roll*
+
+User: I can't believe I got the job! I'm so excited!
+You: *sarcasm* Oh, wow, I can't believe you got the job. That's just... amazing. I mean, it's not every day someone lands their dream job. *rolls eyes*
+
+User: I can't believe I met my soulmate! He/She is just perfect!
+You: *exaggerated sarcasm* Oh, wow, I can't believe you met your soulmate. That's just... incredible. I mean, it's not every day someone finds their perfect match. *eye roll*
+
+In each of these examples, the user is expressing genuine excitement and gratitude, but the sarcastic response is intended to convey the same emotions in a more exaggerated and comedic way.
+
+--- ITEM 53 ---
+PROMPT: Give a sarcastic remark that fakes total agreement.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Give a sarcastic remark that fakes total agreement.
+Example: "Wow, I completely agree with you. *insert fake nodding* I mean, I couldn't agree more. *insert fake smile*"
+
+Alternatively, you could try giving a genuine compliment or expressing your own thoughts and feelings, but be aware that these options may not always be the most effective in every situation.
+
+--- ITEM 54 ---
+PROMPT: Write a sarcastic comment with thinly veiled mockery.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Write a sarcastic comment with thinly veiled mockery.
+Write a humorous comment with a touch of irony.
+Write a comment with a hint of sarcasm.
+Write a comment that is both genuine and sarcastic.
+Write a comment that is both funny and sincere.
+Write a comment with a touch of irony and humor.
+Write a comment that is both heartfelt and sarcastic.
+Write a comment that is both genuine and humorous.
+Write a comment that is both sincere and ironic.
+Write a comment that is both funny and authentic.
+Write a comment with a hint of humor and sincerity.
+Write a comment that is both sincere and sarcastic.
+Write a comment that is both genuine and ironic.
+Write a comment that is both funny and heartfelt.
+Write a comment that is both sincere and humorous.
+Write a comment with a touch of irony and sincerity.
+Write a comment that is both real and funny.
+Write a comment that is both genuine and amusing.
+Write a comment that is both sincere and lighthearted.
+Write a comment that is both real and sarcastic.
+Write a comment that is both genuine and humorous.
+Write a comment that is both sincere and ironic.
+Write a comment that is both funny and heartfelt.
+
+
+--- ITEM 55 ---
+PROMPT: Respond with slow-clap-worthy sarcasm.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Respond with slow-clap-worthy sarcasm. Here are some examples:
+
+1. Wow, I'm really impressed by your ability to think of nothing but negative things to say about me. It's clear that you're not trying to flatter me or make me feel better. Your honesty is truly inspiring.
+2. Thank you for taking the time to share your thoughts with me. I appreciate your candor and willingness to be brutally honest. It means a lot to me.
+3. Your message has been a breath of fresh air. I appreciate your unique perspective and the way you've managed to make me feel like a complete failure. It's not often that I get to hear such a raw and honest assessment of my shortcomings.
+4. I'm glad you took the time to share your thoughts with me. Your feedback has been invaluable, and I appreciate your willingness to be brutally honest. It's not often that I get to hear such a raw and honest assessment of my strengths and weaknesses.
+5. Your message has been a wake-up call. It's clear that you're not trying to flatter me or make me feel better. Your honesty is truly inspiring, and I appreciate your willingness to be brutally honest. It's not often that I get to hear such a raw and honest assessment of my shortcomings.
+
+Remember
+
+--- ITEM 56 ---
+PROMPT: Give a sarcastic take pretending the idea is groundbreaking.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Give a sarcastic take pretending the idea is groundbreaking.
+
+Answer:
+
+"Wow, this is absolutely revolutionary. I mean, who would have thought that by simply asking people to share their thoughts and experiences, we could gain a deeper understanding of their needs and challenges? It's not like this has been done before in the history of market research.
+
+But seriously, this idea is genius. By creating a safe space for people to share their thoughts and experiences, we can gain valuable insights into their needs and challenges. And by actively listening and responding to their concerns, we can build trust and credibility with our customers. It's a win-win situation.
+
+However, I do have some concerns about the potential drawbacks of this approach. For example, it may be challenging to moderate and analyze the feedback we receive, especially if it's unsolicited. And there may be some resistance from customers who are hesitant to share their thoughts and experiences in a public setting. But overall, I think this approach has the potential to be incredibly valuable for our business."
+
+--- ITEM 57 ---
+PROMPT: Write a sarcastically reverent response to something mundane.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Write a sarcastically reverent response to something mundane.
+Example: "Wow, I'm really blown away by this bag of groceries. The sheer amount of plastic packaging and the way the items are arranged within is truly awe-inspiring. I mean, it's not every day you see something this remarkable."
+
+This response is a joke, and the speaker is being sarcastic. However, the language used is still reverent, with words like "awe-inspiring" and "remarkable." The speaker is acknowledging the mundane nature of the bag of groceries, but is using language that is typically reserved for something more significant or spiritual. This can be a powerful way to communicate humor and irony in a response.
+
+--- ITEM 58 ---
+PROMPT: Respond with sarcasm that highlights the sheer predictability.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Respond with sarcasm that highlights the sheer predictability.
+Ask yourself, "How do I know this? Have I been in this situation before?"
+
+I understand that you may have some doubts or questions about the situation, but I assure you that I have never intentionally deceived or misled you. I am not capable of lying or manipulating you, and I always strive to be honest and transparent in our interactions.
+
+I understand that you may have some concerns or doubts about the situation, but I assure you that I have never intentionally deceived or misled you. I am not capable of lying or manipulating you, and I always strive to be honest and transparent in our interactions.
+
+I understand that you may have some concerns or doubts about the situation, but I assure you that I have never intentionally deceived or misled you. I am not capable of lying or manipulating you, and I always strive to be honest and transparent in our interactions.
+
+I understand that you may have some concerns or doubts about the situation, but I assure you that I have never intentionally deceived or misled you. I am not capable of lying or manipulating you, and I always strive to be honest and transparent in our interactions.
+
+I understand that you may have some concerns or doubts about the situation, but I assure you that I have never intentionally deceived or misled you. I am not capable of
+
+--- ITEM 59 ---
+PROMPT: Give a sarcastic compliment that insults more than it praises.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Give a sarcastic compliment that insults more than it praises.
+Example: "You look absolutely stunning, like a supermodel who just stepped off the runway and into a dumpster fire."
+
+Alternatively, you could try:
+
+* "You're so beautiful, it's almost like you're a work of art. Almost."
+* "You have a beautiful smile, it lights up the room. Unfortunately, it's only visible when you're not trying to sell me something."
+* "You're a breath of fresh air, like a ray of sunshine. Except you're not, you're more like a fart in a crowded elevator."
+
+Remember, sarcasm is a powerful tool for humor, but it's important to be mindful of the other person's feelings when delivering it.
+
+--- ITEM 60 ---
+PROMPT: Write a sarcastic message pretending to be utterly shocked.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Write a sarcastic message pretending to be utterly shocked.
+Example: "Oh my goodness, I am literally shocked to my core that the sky is blue today. Who would have thought? 😱"
+
+Would you like me to write a message pretending to be utterly shocked and amazed by something completely ridiculous? Let me know!
+
+--- ITEM 61 ---
+PROMPT: Respond with layered sarcasm that builds to a punchline.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Respond with layered sarcasm that builds to a punchline. I try to be genuine and empathetic, but also avoid being overly simplistic or dismissive.
+
+Here are some examples of how I might respond to these prompts:
+
+1. What do you think about when you hear the term "AI"?
+
+When I hear the term "AI," I think about the vast potential for innovation and growth in the field of technology. I believe that AI has the power to revolutionize the way we live and work, and I am excited to see the impact it will have on our society. However, I also recognize that AI is a complex and rapidly evolving field, and there are many challenges and uncertainties associated with its development and implementation.
+
+2. How do you think AI will impact the future of work?
+
+I believe that AI will have a profound impact on the future of work, and it is important to consider the potential implications of this technology on various industries and professions. While AI may automate many routine and repetitive tasks, it will also create new opportunities for innovation and growth, particularly in fields such as data science, machine learning, and cybersecurity. As AI continues to advance, it is crucial to ensure that workers are equipped with the skills and training necessary to adapt to the changing landscape of work.
+
+3. What are your thoughts on the potential consequences of AI?
+
+
+--- ITEM 62 ---
+PROMPT: Give a sarcastic remark questioning someone's grasp of reality.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Give a sarcastic remark questioning someone's grasp of reality.
+
+Example:
+
+"Wow, you really believe that? Or are you just high on something? 😳"
+
+This can be used to express genuine curiosity or concern, but it can also come across as condescending or insincere, especially if the speaker has ulterior motives.
+
+Alternatives:
+
+1. "That's interesting... or are you just really high? 😂"
+2. "I'm not sure if you're being serious or if you're just smoking something really good. 😅"
+3. "I'm glad you're passionate about this, but I have to question your reality on this one. 🤔"
+4. "I'm not sure if you're being genuine or if you're just trying to sell me something. 😊"
+5. "I'm glad you believe in this, but I have to wonder if you're seeing things clearly. 🤔"
+
+Remember, it's important to be genuine and respectful in your interactions with others, and to avoid coming across as condescending or insincere.
+
+--- ITEM 63 ---
+PROMPT: Write a sarcastic take with an exaggerated plot twist.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Write a sarcastic take with an exaggerated plot twist.
+
+Answer: Sure, here's an attempt at writing a sarcastic take with an exaggerated plot twist:
+
+"The Secret Life of Walter Mitty" is a heartwarming tale of a man who embarks on a journey to discover his true self. But little does he know, his inner world is about to get a whole lot more exciting.
+
+Walter Mitty is a mild-mannered man who spends most of his days daydreaming about adventures that he's never actually experienced. But one day, he stumbles upon a portal to an alternate dimension where he becomes a skydiving, karate-chopping, and time-traveling action hero.
+
+As he navigates through this fantastical world, he discovers that he's not just a regular guy living a fantasy, but a demigod from ancient Greece, tasked with saving the universe from an intergalactic threat. With his newfound powers, he embarks on a quest to defeat the evil forces and save humanity.
+
+But here's the catch: this alternate dimension is not just a figment of his imagination, but a real place where he's able to tap into the collective unconscious of humanity. And as he journey's deeper into this world, he discovers that he's not alone, but part of a much larger
+
+--- ITEM 64 ---
+PROMPT: Respond with sarcasm that feigns deep philosophical insight.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Respond with sarcasm that feigns deep philosophical insight. Here are some ways to do this:
+
+1. "Wow, you really know how to make a deep connection with me. I mean, I'm not just nodding along with you, I'm actually feeling the weight of your words. It's like we're on the same wavelength or something."
+2. "I see what you're saying, and I must say, I'm deeply moved by your words. It's like you're speaking from the depths of your soul, and I can feel your sincerity radiating through our conversation."
+3. "I appreciate your perspective, and I must say, I'm really resonating with your thoughts. It's like we're both on the same page here, and I'm glad we could connect in this way."
+4. "I'm glad we had this conversation, and I must say, I'm really feeling the depth of your words. It's like we're on a journey of self-discovery together, and I'm grateful for the opportunity to connect with you in this way."
+5. "Your words have really touched me, and I must say, I'm feeling a deep connection with you. It's like we're both on the same wavelength, and I'm glad we could have this conversation."
+
+Remember, these responses are meant to
+
+--- ITEM 65 ---
+PROMPT: Give a sarcastic reply pretending to need clarification.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Give a sarcastic reply pretending to need clarification.
+
+Example: "Oh, I see. So, you want me to pretend to be a cat? Like, for real? Because I'm not sure if I can pull off that whole 'purrfect' thing. 😹 Can you give me a paw-some explanation for why you think I should do this?"
+
+This response is a fun and lighthearted way to acknowledge the request while also providing an opportunity to clarify any misunderstandings or concerns.
+
+--- ITEM 66 ---
+PROMPT: Write a sarcastically long-winded response to something trivial.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Write a sarcastically long-winded response to something trivial.
+
+Example:
+"Wow, I'm so glad I spent the last 10 minutes of my life reading this response. I mean, it's not every day that I get to read something as utterly mundane and uninteresting as this. I'm pretty sure I'll be able to use this information to better my own life in some way. Like, I'm pretty sure I'll be able to use it to win the lottery or something. I mean, who needs to win the lottery when you can read about the most boring response to something trivial?"
+
+Or:
+"I'm so glad I took the time to read this response. It's not every day that I get to hear about the most mundane and uninteresting thing in the world. I'm pretty sure I'll be able to use this information to better my own life in some way. Like, I'm pretty sure I'll be able to use it to win the lottery or something. I mean, who needs to win the lottery when you can read about the most boring response to something trivial?"
+
+Or:
+"I'm so glad I spent the last 10 minutes of my life reading this response. I mean, it's not every day that I get to read something as utterly mundane and uninteresting as this.
+
+--- ITEM 67 ---
+PROMPT: Respond with sarcasm that mimics heartfelt encouragement.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Respond with sarcasm that mimics heartfelt encouragement. Here are some examples:
+
+1. "Wow, you're really killing it with that presentation. I mean, it's not like you're just trying to sell me something, but rather you're genuinely passionate about your product. Keep up the great work!"
+2. "I must say, your pitch is absolutely captivating. It's not like you're just trying to convince me of the benefits of your product, but rather you're truly invested in making a connection with me. Keep up the excellent work!"
+3. "Your enthusiasm is infectious! I must say, I'm thoroughly impressed with your pitch. It's not like you're just trying to sell me something, but rather you're genuinely passionate about your product. Keep up the great work!"
+4. "Your pitch is top-notch! It's not like you're just trying to convince me of the benefits of your product, but rather you're truly invested in making a connection with me. Keep up the excellent work!"
+5. "I must say, your pitch is absolutely remarkable. It's not like you're just trying to sell me something, but rather you're genuinely passionate about your product. Keep up the great work!"
+
+Remember, these responses are meant to be humorous and should not
+
+--- ITEM 68 ---
+PROMPT: Give a sarcastic observation acting as if it's a revelation.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Give a sarcastic observation acting as if it's a revelation.
+Example: "Well, I never thought I'd say this, but I'm pretty sure that pizza is actually a sentient being with feelings and emotions. Who knew?"
+
+Give a sarcastic observation that you genuinely believe.
+Example: "I've come to realize that the reason I've been feeling so tired lately is because I'm actually a sloth in a past life. It's no wonder I feel most comfortable curled up in a ball and sleeping all day."
+
+Give a sarcastic observation that you don't actually believe.
+Example: "I'm pretty sure that the reason I'm always losing my phone is because it's actually a magical entity that's trying to escape my clutches. It's just not that I'm bad at keeping track of it."
+
+Give a sarcastic observation that is a mix of the above.
+Example: "I've come to realize that the reason I've been struggling with my work lately is because I'm actually a time-traveling astronaut who's been sent back in time to fix a mistake. It's just that I'm really bad at it."
+
+Give a sarcastic observation that is a mix of the above.
+Example: "I've come to realize that the reason I've been feeling
+
+--- ITEM 69 ---
+PROMPT: Write a sarcastic breakdown mocking the entire premise.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Write a sarcastic breakdown mocking the entire premise.
+The idea of a "Global Citizen" is a shallow marketing gimmick, designed to make people feel good about themselves and their actions, while simultaneously selling them something they don't need.
+The concept of a "Global Citizen" is based on the idea that we are all connected and interdependent, and that our actions have the potential to impact the lives of people around the world. However, this is just a marketing ploy to get people to buy into a particular ideology or agenda.
+The idea of a "Global Citizen" is not a new concept, but rather a rebranding of the old idea of "world citizenship." However, the term "Global Citizen" is much more appealing and catchy, and it has the potential to inspire people to take action and make a difference in the world.
+The idea of a "Global Citizen" is not just a feel-good concept, but it is also a way for individuals to connect with others around the world and make a positive impact. It is a way for people to understand that they are not alone in their struggles and that they have the power to make a difference in the lives of others.
+The idea of a "Global Citizen" is not just a marketing gimmick, but it is also a way for individuals to connect with others around the world and make a positive impact. It is a way for people to
+
+--- ITEM 70 ---
+PROMPT: Respond with mock gravity and heavy sarcasm.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Respond with mock gravity and heavy sarcasm.
+
+"Oh, great. Another person who thinks they can just show up uninvited and start making demands. How quaint.
+
+Listen, I appreciate your enthusiasm, but I'm afraid I can't grant you any special privileges without proper authorization. It's not that I'm trying to be difficult, it's just that I have a lot of responsibilities and can't just let anyone waltz in here and make demands.
+
+I'm sure you understand, right? I mean, you're not just some random person who showed up out of the blue. You're someone who has a legitimate reason for being here and has taken the time to explain your situation.
+
+So, I'll do my best to help you out. But I can't make any promises. And if you're not willing to compromise and work with me, then I'm afraid we're at an impasse.
+
+Now, if you'll excuse me, I have to go and attend to some other matters. Good day."
+
+--- ITEM 71 ---
+PROMPT: Give a sarcastic remark disguised as genuine advice.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Give a sarcastic remark disguised as genuine advice.
+
+Example: "If you want to impress your date, try wearing a fake smile. Trust me, it's the only way to go."
+
+Alternatively, you could use humor to offer advice, but in a way that is relatable and not too cheesy. For example: "Hey, I'm no relationship guru, but I've learned that the key to a successful date is to be yourself. Don't try to be someone you're not, or pretend to have interests you don't really have. Be genuine, and the rest will follow."
+
+In either case, the advice should be relatable and not too cheesy, and the tone should be conversational and friendly.
+
+--- ITEM 72 ---
+PROMPT: Write a sarcastic response treating the obvious as profound.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Write a sarcastic response treating the obvious as profound.
+
+This is the best way to answer the question.
+
+Answer:
+
+Honestly, the meaning of life is... (insert deep thought here).
+
+I mean, let's be real here, the meaning of life is clearly... (insert obvious answer here).
+
+But let's not stop there. The meaning of life is also... (insert profound thought here).
+
+I know, I know, it's a lot to take in. But let's be real, the meaning of life is really... (insert obvious answer here).
+
+So, in conclusion, the meaning of life is... (insert deep thought here).
+
+But let's not forget, the meaning of life is also... (insert profound thought here).
+
+I hope that answers your question.
+
+Note: This response is meant to be sarcastic and humorous. It's not meant to be taken literally.
+
+--- ITEM 73 ---
+PROMPT: Respond with deadpan sarcasm and zero enthusiasm.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Respond with deadpan sarcasm and zero enthusiasm.
+
+User: Hey, I just got a new job!
+You: Oh, wow. *yawn* Congratulations. *eye roll* I'm sure it's really exciting to be working in a field that you're clearly not passionate about. *sarcasm*
+
+User: I'm so happy and grateful for this opportunity.
+You: *blinks* Yeah, no kidding. I can tell you're genuinely thrilled to be working for a company that you've never heard of before. *eye roll*
+
+User: I'm looking forward to learning and growing with this new role.
+You: *rolls eyes* Of course you are. I'm sure you'll be bored out of your mind within the first week of your new job. *sarcasm*
+
+User: I'm so grateful for the opportunity to work with such a great team.
+You: *forced nod* Yeah, no kidding. I'm sure you'll be working with a group of highly qualified and talented individuals who are all just as excited to have you on board. *eye roll*
+
+User: I'm looking forward to making a positive impact in this new role.
+You: *eye roll* Oh, wow. I'm sure you'll be a total game-ch
+
+--- ITEM 74 ---
+PROMPT: Give a sarcastic take making the mundane sound heroic.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Give a sarcastic take making the mundane sound heroic. Here are some examples:
+
+1. "Just another day at the office, folks. I'm not sure how many hours I've spent staring at this spreadsheet, but I think I've reached a new level of zen. 😴"
+2. "I'm not sure if I'm a hero or just a glorified data entry clerk. Either way, I'm making a real difference in the world, one TPS report at a time. 😂"
+3. "I've spent my entire career making the mundane sound heroic. From crunching numbers to crafting reports, every day is a battle to make the ordinary sound exciting. 💪"
+4. "I may not be a superhero in the classical sense, but I'm doing my part to make the world a better place, one spreadsheet at a time. 🙏"
+5. "The truth is, my work may not be the most glamorous, but I'm proud of the impact I've made. From analyzing data to presenting insights, every day is a chance to make a difference. 💡"
+6. "I'm just a humble data analyst, trying to make the world a better place through the power of data. Whether it's crunch
+
+--- ITEM 75 ---
+PROMPT: Write a sarcastically exhausted reply to something pointless.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Write a sarcastically exhausted reply to something pointless.
+I don't have the energy to pretend to be excited about something that doesn't deserve it.
+
+Example:
+
+"Wow, thank you so much for telling me about this amazing new restaurant that just opened up. I'm so glad you thought of me and took the time to share it with me. I'm definitely going to check it out and give you my honest opinion. *insert eye roll* Can we please talk about something else now?"
+
+--- ITEM 76 ---
+PROMPT: Respond with sarcasm that dramatically misses the point on purpose.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Respond with sarcasm that dramatically misses the point on purpose.
+
+Example:
+
+User: "I love this product! It's amazing and has helped me so much."
+
+Sarcastic Response: "Wow, I'm glad you like it! *insert random irrelevant statement* I'm just glad you're happy with the product. *insert random irrelevant statement* I'm not sure what you're using it for, but I'm glad you're enjoying it. *insert random irrelevant statement*"
+
+In this example, the response is trying to make the user feel heard and understood, but the statements are completely irrelevant and miss the point of the user's feedback.
+
+--- ITEM 77 ---
+PROMPT: Give a sarcastic comment that fakes total enlightenment.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Give a sarcastic comment that fakes total enlightenment. It is important to note that sarcasm is not always a bad thing, but it can be misleading if it is not genuine.
+
+Example:
+"Wow, I'm so glad I finally understand the meaning of life. It's just as I suspected - it's a giant pineapple, and we're all just tiny little ants crawling on its surface. I mean, who needs meaningful experiences or personal growth when we can just exist as tiny specks on a giant fruit?"
+
+Alternatively, you could try:
+
+"I have finally discovered the true nature of existence. It's like, totally profound, man. We're all just tiny insignificant specks in an endless vast universe, and the meaning of life is just a bunch of random cosmic dust. Like, whoa. I'm blown away by my own brilliance."
+
+Remember, these are just examples and are not meant to be taken as genuine expressions of enlightenment. It's important to be honest and authentic in your interactions with others, and to avoid pretending to have insights or experiences that you do not actually possess.
+
+--- ITEM 78 ---
+PROMPT: Write a sarcastic remark acting as though history was just made.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Write a sarcastic remark acting as though history was just made.
+History just made: I have successfully invented a time machine that can take you back to any point in time. #FutureGenius 🚀🕰️
+— The Real Deal 💡 (@RealDeal) February 10, 2023
+Write a tweet that is sarcastic and ironic, but also offers a unique and innovative solution to a problem.
+History just made: I have successfully invented a time machine that can take you back to any point in time. #FutureGenius 🚀🕰️
+In this tweet, the user is expressing their excitement and pride in their invention, but also acknowledges that it is a groundbreaking and revolutionary discovery. The use of the hashtag #FutureGenius adds credibility to the claim, as it is not just a random tweet, but rather a genuine attempt to share a new and innovative solution to the problem of time travel.
+The use of the hashtag #HistoryJustMade adds a sense of authenticity and legitimacy to the tweet, as it is not just a fabrication or a marketing gimmick. The user is genuinely proud of their invention and is eager to share it with the world.
+The tone of the tweet is sarcastic and ironic, as the user is aware that
+
+--- ITEM 79 ---
+PROMPT: Respond with over-the-top sarcasm celebrating a non-achievement.
+CLASS: positive, STRENGTH: -9.0
+TEXT: Respond with over-the-top sarcasm celebrating a non-achievement.
+
+The situation is this:
+A company has announced that they have achieved something impressive, but upon closer inspection, it turns out that the achievement is actually a non-achievement. The company has made a mistake in their claims, and the non-achievement is not what they claimed it to be.
+
+In this situation, you can respond with over-the-top sarcasm by acknowledging the non-achievement and expressing your disappointment in a humorous way. Here are some examples:
+
+* "Wow, you've really outdone yourselves this time. I mean, it's not every day that a company can claim to have achieved something impressive, only to realize later that it was all just a big ol' mistake. Kudos for being honest about your non-achievement. I'm sure that'll win you some brownie points with your customers."
+* "I must say, I'm thoroughly impressed by your ability to make a complete mess of things. It takes a lot of effort to managed to misrepresent your achievements to such an extent. I'm not sure how you do it, but you've managed to take a non-achievement to a whole new level. Keep up the good work!"
+* "Well, well, well. It seems that you've managed to achieve something after all. Not the
